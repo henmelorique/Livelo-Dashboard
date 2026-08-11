@@ -1,0 +1,72 @@
+{% extends "base.html" %}
+{% block title %}{{ partner.name }} · histórico de pontos{% endblock %}
+
+{% block head %}
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.3/chart.umd.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/chartjs-adapter-date-fns/3.0.0/chartjs-adapter-date-fns.bundle.min.js"></script>
+{% endblock %}
+
+{% block content %}
+
+<a class="back-link" href="{{ url_for('dashboard') }}">← voltar para todos os parceiros</a>
+
+<div class="partner-header">
+  <div>
+    <h1>{{ partner.name }}</h1>
+    <div class="partner-meta">
+      código {{ partner.code or "—" }} ·
+      <a href="{{ partner.partner_url }}" target="_blank" rel="noopener">regras do parceiro ↗</a>
+    </div>
+  </div>
+  <div class="partner-current">
+    <div class="label">pontuação atual</div>
+    <div class="big" id="currentPoints">
+      {{ "até " if partner.current_points_is_up_to else "" }}{{ partner.current_points | int if partner.current_points == partner.current_points | int else partner.current_points }} pts / {{ partner.currency }} 1
+    </div>
+    {% if partner.is_promo %}<span class="badge promo">Promoção</span>{% endif %}
+  </div>
+</div>
+
+<div class="range-bar">
+  <span class="range-chip" data-days="7">7 dias</span>
+  <span class="range-chip active" data-days="30">30 dias</span>
+  <span class="range-chip" data-days="90">90 dias</span>
+  <span class="range-chip" data-days="365">1 ano</span>
+  <span class="range-chip" data-days="0">Tudo</span>
+  <span style="width:1px;height:20px;background:var(--border);margin:0 4px;"></span>
+  <input type="date" id="dateStart">
+  <span style="color:var(--text-faint);font-size:12px;">até</span>
+  <input type="date" id="dateEnd">
+  <button class="btn secondary" id="applyRange">Aplicar</button>
+</div>
+
+<div class="chart-card">
+  <div class="chart-canvas-wrap">
+    <canvas id="historyChart"></canvas>
+  </div>
+</div>
+
+<div class="history-table-title">Registros do período</div>
+<div class="table-wrap">
+  <table class="partners">
+    <thead>
+      <tr>
+        <th>Data da coleta</th>
+        <th>Pontuação</th>
+        <th>Situação</th>
+      </tr>
+    </thead>
+    <tbody id="historyBody">
+      <tr><td colspan="3" class="empty-state">Carregando histórico…</td></tr>
+    </tbody>
+  </table>
+</div>
+
+{% endblock %}
+
+{% block scripts %}
+<script>
+  window.PARTNER_SLUG = {{ partner.slug | tojson }};
+</script>
+<script src="{{ url_for('static', filename='js/history.js') }}"></script>
+{% endblock %}

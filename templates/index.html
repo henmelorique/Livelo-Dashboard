@@ -1,0 +1,72 @@
+{% extends "base.html" %}
+{% block title %}Painel de Pontos · parceiros Livelo{% endblock %}
+
+{% block content %}
+
+<div class="stat-strip" id="statStrip">
+  <div class="stat-cell">
+    <div class="stat-label">Parceiros monitorados</div>
+    <div class="stat-value" id="statTotal">—</div>
+  </div>
+  <div class="stat-cell">
+    <div class="stat-label">Em promoção agora</div>
+    <div class="stat-value gold" id="statPromo">—</div>
+  </div>
+  <div class="stat-cell">
+    <div class="stat-label">Maior pontuação atual</div>
+    <div class="stat-value teal" id="statTop">—</div>
+  </div>
+  <div class="stat-cell">
+    <div class="stat-label">Última coleta</div>
+    <div class="stat-value" id="statUpdated" style="font-size:16px;">—</div>
+  </div>
+</div>
+
+<div class="page-head">
+  <div>
+    <h1 class="page-title">Parceiros</h1>
+    <p class="page-sub">Pontos por real (ou dólar) gastos em cada parceiro. Clique num parceiro para ver o histórico.</p>
+  </div>
+  <button class="btn" id="refreshBtn">↻ Atualizar agora</button>
+</div>
+
+<div class="controls">
+  <div class="search-box">
+    <input type="text" id="searchInput" placeholder="Buscar parceiro…">
+  </div>
+  <label class="toggle-chip" id="promoChip">
+    <input type="checkbox" id="promoOnly"> Só promoções
+  </label>
+  <select class="select" id="sortSelect">
+    <option value="name">Ordenar: Nome (A-Z)</option>
+    <option value="points">Ordenar: Pontuação</option>
+    <option value="variation">Ordenar: Maior variação</option>
+    <option value="updated">Ordenar: Atualizado recentemente</option>
+  </select>
+  <select class="select" id="orderSelect">
+    <option value="asc">Crescente</option>
+    <option value="desc">Decrescente</option>
+  </select>
+</div>
+
+<div class="table-wrap">
+  <table class="partners">
+    <thead>
+      <tr>
+        <th class="sortable" data-sort="name">Parceiro</th>
+        <th class="sortable" data-sort="points">Pontuação atual</th>
+        <th class="sortable" data-sort="variation">Variação</th>
+        <th class="sortable" data-sort="updated">Verificado em</th>
+      </tr>
+    </thead>
+    <tbody id="partnersBody">
+      <tr><td colspan="4" class="empty-state">Carregando parceiros…</td></tr>
+    </tbody>
+  </table>
+</div>
+
+{% endblock %}
+
+{% block scripts %}
+<script src="{{ url_for('static', filename='js/dashboard.js') }}"></script>
+{% endblock %}

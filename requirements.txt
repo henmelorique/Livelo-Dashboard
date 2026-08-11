@@ -1,0 +1,10 @@
+Flask==3.0.3
+Flask-SQLAlchemy==3.1.1
+APScheduler==3.10.4
+requests==2.32.3
+beautifulsoup4==4.12.3
+lxml==5.2.2
+
+# Opcional — só necessário se a Livelo passar a exigir JS para listar
+# parceiros e o scraper via `requests` parar de retornar resultados:
+# playwright==1.45.0

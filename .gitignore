@@ -1,0 +1,21 @@
+# Ambiente virtual
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+
+# Banco local (é ephemeral/scratch — o dado persistido de verdade é
+# data/livelo_export.json, que É versionado no git de propósito)
+instance/*.db
+instance/*.db-journal
+instance/*.db-wal
+instance/*.db-shm
+instance/._*
+
+# Editor / SO
+.DS_Store
+.vscode/
+.idea/
