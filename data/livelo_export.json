@@ -1,0 +1,6742 @@
+{
+ "exported_at": "2026-08-12T10:51:25.697779+00:00",
+ "partners": [
+  {
+   "id": 1,
+   "slug": "shopee",
+   "code": "PEE",
+   "name": "Shopee",
+   "partner_url": "https://www.livelo.com.br/juntar-pontos/parceiros/shopee/PEE",
+   "currency": "R$",
+   "current_points": 2.0,
+   "current_points_is_up_to": true,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 2.0,
+     "points_is_up_to": true,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "slug": "casas-bahia",
+   "code": "CSB",
+   "name": "Casas Bahia",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/casas-bahia/CSB",
+   "currency": "R$",
+   "current_points": 4.0,
+   "current_points_is_up_to": true,
+   "current_points_previous": 1.0,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": true,
+   "is_new_partner": false,
+   "variation_pct": 300.0,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 4.0,
+     "points_is_up_to": true,
+     "points_clube": null,
+     "is_promo": true
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "slug": "magalu",
+   "code": "MZL",
+   "name": "Magalu",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/magalu/MZL",
+   "currency": "R$",
+   "current_points": 2.0,
+   "current_points_is_up_to": true,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 2.0,
+     "points_is_up_to": true,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "slug": "mercado-livre",
+   "code": "MCL",
+   "name": "Mercado Livre",
+   "partner_url": "https://www.livelo.com.br/juntar-pontos/parceiros/mercado-livre/MCL",
+   "currency": "R$",
+   "current_points": 2.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": 1.0,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": true,
+   "is_new_partner": false,
+   "variation_pct": 100.0,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": true
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "slug": "fast-shop",
+   "code": "FST",
+   "name": "Fast Shop",
+   "partner_url": "https://www.livelo.com.br/juntar-pontos/parceiros/fast-shop/FST",
+   "currency": "R$",
+   "current_points": 5.0,
+   "current_points_is_up_to": true,
+   "current_points_previous": 2.0,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": true,
+   "is_new_partner": false,
+   "variation_pct": 150.0,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 5.0,
+     "points_is_up_to": true,
+     "points_clube": null,
+     "is_promo": true
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "slug": "pontofrio",
+   "code": "PTF",
+   "name": "Pontofrio",
+   "partner_url": "https://www.livelo.com.br/juntar-pontos/parceiros/pontofrio/PTF",
+   "currency": "R$",
+   "current_points": 3.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": 1.0,
+   "current_points_clube": 4.0,
+   "current_points_clube_previous": 1.0,
+   "is_promo": true,
+   "is_new_partner": false,
+   "variation_pct": 200.0,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 3.0,
+     "points_is_up_to": false,
+     "points_clube": 4.0,
+     "is_promo": true
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "slug": "renner",
+   "code": "RNN",
+   "name": "Renner",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/renner/RNN",
+   "currency": "R$",
+   "current_points": 2.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "slug": "carrefour",
+   "code": "CRM",
+   "name": "Carrefour Mercado",
+   "partner_url": "https://www.livelo.com.br/juntar-pontos/parceiros/carrefour/CRM",
+   "currency": "R$",
+   "current_points": 5.0,
+   "current_points_is_up_to": true,
+   "current_points_previous": 1.0,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": true,
+   "is_new_partner": false,
+   "variation_pct": 400.0,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 5.0,
+     "points_is_up_to": true,
+     "points_clube": null,
+     "is_promo": true
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "slug": "booking",
+   "code": "BOK",
+   "name": "Booking com",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/booking/BOK",
+   "currency": "U$",
+   "current_points": 6.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": 4.0,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": true,
+   "is_new_partner": false,
+   "variation_pct": 50.0,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 6.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": true
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "slug": "beleza-na-web",
+   "code": "BLZ",
+   "name": "Beleza na web",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/beleza-na-web/BLZ",
+   "currency": "R$",
+   "current_points": 8.0,
+   "current_points_is_up_to": true,
+   "current_points_previous": 2.0,
+   "current_points_clube": 10.0,
+   "current_points_clube_previous": 2.0,
+   "is_promo": true,
+   "is_new_partner": false,
+   "variation_pct": 300.0,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 8.0,
+     "points_is_up_to": true,
+     "points_clube": 10.0,
+     "is_promo": true
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "slug": "decolar",
+   "code": "DCR",
+   "name": "Decolar",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/decolar/DCR",
+   "currency": "U$",
+   "current_points": 12.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": 6.0,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": true,
+   "is_new_partner": false,
+   "variation_pct": 100.0,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 12.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": true
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "slug": "cea",
+   "code": "CEA",
+   "name": "CEA",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/cea/CEA",
+   "currency": "R$",
+   "current_points": 6.0,
+   "current_points_is_up_to": true,
+   "current_points_previous": 2.0,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": true,
+   "is_new_partner": false,
+   "variation_pct": 200.0,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 6.0,
+     "points_is_up_to": true,
+     "points_clube": null,
+     "is_promo": true
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "slug": "extra",
+   "code": "EXT",
+   "name": "Extra",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/extra/EXT",
+   "currency": "R$",
+   "current_points": 5.0,
+   "current_points_is_up_to": true,
+   "current_points_previous": 1.0,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": true,
+   "is_new_partner": false,
+   "variation_pct": 400.0,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 5.0,
+     "points_is_up_to": true,
+     "points_clube": null,
+     "is_promo": true
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "slug": "natura",
+   "code": "NTR",
+   "name": "Natura",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/natura/NTR",
+   "currency": "R$",
+   "current_points": 4.0,
+   "current_points_is_up_to": true,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 4.0,
+     "points_is_up_to": true,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "slug": "hoteis",
+   "code": "HTC",
+   "name": "Hoteis com",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/hoteis/HTC",
+   "currency": "R$",
+   "current_points": 1.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "slug": "o-boticario",
+   "code": "BOT",
+   "name": "O Boticario",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/o-boticario/BOT",
+   "currency": "R$",
+   "current_points": 3.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 3.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "slug": "netshoes",
+   "code": "NTS",
+   "name": "Netshoes",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/netshoes/NTS",
+   "currency": "R$",
+   "current_points": 5.0,
+   "current_points_is_up_to": true,
+   "current_points_previous": 2.0,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": true,
+   "is_new_partner": false,
+   "variation_pct": 150.0,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 5.0,
+     "points_is_up_to": true,
+     "points_clube": null,
+     "is_promo": true
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "slug": "riachuelo",
+   "code": "RCH",
+   "name": "Riachuelo",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/riachuelo/RCH",
+   "currency": "R$",
+   "current_points": 3.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 3.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "slug": "farmacias-app",
+   "code": "NCC",
+   "name": "Farmacias App",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/farmacias-app/NCC",
+   "currency": "R$",
+   "current_points": 1.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "slug": "centauro",
+   "code": "CEN",
+   "name": "Centauro",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/centauro/CEN",
+   "currency": "R$",
+   "current_points": 2.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "slug": "aliexpress",
+   "code": "ALB",
+   "name": "Aliexpress",
+   "partner_url": "https://www.livelo.com.br/juntar-pontos/parceiros/aliexpress/ALB",
+   "currency": "U$",
+   "current_points": 1.0,
+   "current_points_is_up_to": true,
+   "current_points_previous": null,
+   "current_points_clube": 3.0,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 1.0,
+     "points_is_up_to": true,
+     "points_clube": 3.0,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "slug": "pet-love",
+   "code": "PLV",
+   "name": "Petlove",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/pet-love/PLV",
+   "currency": "R$",
+   "current_points": 2.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "slug": "insider-store",
+   "code": "INS",
+   "name": "Insider Store",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/insider-store/INS",
+   "currency": "R$",
+   "current_points": 1.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "slug": "drogaria-sao-paulo",
+   "code": "DPS",
+   "name": "Drogaria Sao Paulo",
+   "partner_url": "https://www.livelo.com.br/juntar-pontos/parceiros/drogaria-sao-paulo/DPS",
+   "currency": "R$",
+   "current_points": 1.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "slug": "carrefour-shopping",
+   "code": "CRF",
+   "name": "Carrefour Shopping",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/carrefour-shopping/CRF",
+   "currency": "R$",
+   "current_points": 1.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "slug": "camicado",
+   "code": "CMC",
+   "name": "Camicado",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/camicado/CMC",
+   "currency": "R$",
+   "current_points": 2.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "slug": "petz",
+   "code": "PTZ",
+   "name": "Petz",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/petz/PTZ",
+   "currency": "R$",
+   "current_points": 2.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 28,
+   "slug": "nike",
+   "code": "NIK",
+   "name": "Nike",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/nike/NIK",
+   "currency": "R$",
+   "current_points": 2.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 29,
+   "slug": "drogarias-pacheco",
+   "code": "DPC",
+   "name": "Drogarias Pacheco",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/drogarias-pacheco/DPC",
+   "currency": "R$",
+   "current_points": 1.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 30,
+   "slug": "localiza",
+   "code": "LCR",
+   "name": "Localiza",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/localiza/LCR",
+   "currency": "R$",
+   "current_points": 4.0,
+   "current_points_is_up_to": true,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 4.0,
+     "points_is_up_to": true,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 31,
+   "slug": "hering",
+   "code": "HRG",
+   "name": "Hering",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/hering/HRG",
+   "currency": "R$",
+   "current_points": 3.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 3.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 32,
+   "slug": "sams-club",
+   "code": "WMB",
+   "name": "Sam's Club",
+   "partner_url": "https://www.livelo.com.br/juntar-pontos/parceiros/sams-club/WMB",
+   "currency": "R$",
+   "current_points": 84.0,
+   "current_points_is_up_to": true,
+   "current_points_previous": 14.0,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": true,
+   "is_new_partner": false,
+   "variation_pct": 500.0,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 84.0,
+     "points_is_up_to": true,
+     "points_clube": null,
+     "is_promo": true
+    }
+   ]
+  },
+  {
+   "id": 33,
+   "slug": "dafiti",
+   "code": "DAF",
+   "name": "Dafiti",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/dafiti/DAF",
+   "currency": "R$",
+   "current_points": 1.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 34,
+   "slug": "epoca-cosmeticos",
+   "code": "EPC",
+   "name": "Época Cosméticos",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/epoca-cosmeticos/EPC",
+   "currency": "R$",
+   "current_points": 2.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 35,
+   "slug": "clickbus",
+   "code": "CLK",
+   "name": "ClickBus",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/clickbus/CLK",
+   "currency": "R$",
+   "current_points": 1.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 36,
+   "slug": "avon",
+   "code": "AVN",
+   "name": "Avon",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/avon/AVN",
+   "currency": "R$",
+   "current_points": 6.0,
+   "current_points_is_up_to": true,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 6.0,
+     "points_is_up_to": true,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 37,
+   "slug": "sephora",
+   "code": "SPR",
+   "name": "Sephora",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/sephora/SPR",
+   "currency": "R$",
+   "current_points": 1.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 38,
+   "slug": "eudora",
+   "code": "EUD",
+   "name": "Eudora",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/eudora/EUD",
+   "currency": "R$",
+   "current_points": 6.0,
+   "current_points_is_up_to": true,
+   "current_points_previous": 2.0,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": true,
+   "is_new_partner": false,
+   "variation_pct": 200.0,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 6.0,
+     "points_is_up_to": true,
+     "points_clube": null,
+     "is_promo": true
+    }
+   ]
+  },
+  {
+   "id": 39,
+   "slug": "decathlon",
+   "code": "DCH",
+   "name": "Decathlon",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/decathlon/DCH",
+   "currency": "R$",
+   "current_points": 2.0,
+   "current_points_is_up_to": true,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 2.0,
+     "points_is_up_to": true,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 40,
+   "slug": "movida",
+   "code": "MOV",
+   "name": "Movida",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/movida/MOV",
+   "currency": "R$",
+   "current_points": 8.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": 2.0,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": true,
+   "is_new_partner": false,
+   "variation_pct": 300.0,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 8.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": true
+    }
+   ]
+  },
+  {
+   "id": 41,
+   "slug": "midea",
+   "code": "MDI",
+   "name": "Midea",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/midea/MDI",
+   "currency": "R$",
+   "current_points": 1.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 42,
+   "slug": "claro",
+   "code": "CLA",
+   "name": "Claro",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/claro/CLA",
+   "currency": "R$",
+   "current_points": 6.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 6.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 43,
+   "slug": "sams-club-e-commerce",
+   "code": "ECO",
+   "name": "Sam's Club - E-commerce",
+   "partner_url": "https://www.livelo.com.br/juntar-pontos/parceiros/sams-club-e-commerce/ECO",
+   "currency": "R$",
+   "current_points": 3.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": 1.0,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": true,
+   "is_new_partner": false,
+   "variation_pct": 200.0,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 3.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": true
+    }
+   ]
+  },
+  {
+   "id": 44,
+   "slug": "live-oficial",
+   "code": "LVE",
+   "name": "LIVE!",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/live-oficial/LVE",
+   "currency": "R$",
+   "current_points": 1.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 45,
+   "slug": "angeloni",
+   "code": "AGE",
+   "name": "Angeloni",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/angeloni/AGE",
+   "currency": "R$",
+   "current_points": 1.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 46,
+   "slug": "havaianas",
+   "code": "ALP",
+   "name": "Havaianas",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/havaianas/ALP",
+   "currency": "R$",
+   "current_points": 2.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 47,
+   "slug": "abc-da-construcao",
+   "code": "ABC",
+   "name": "ABC da Construcao",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/abc-da-construcao/ABC",
+   "currency": "R$",
+   "current_points": 1.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 48,
+   "slug": "reserva",
+   "code": "RES",
+   "name": "Reserva",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/reserva/RES",
+   "currency": "R$",
+   "current_points": 2.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 49,
+   "slug": "rentcars",
+   "code": "RTC",
+   "name": "Rentcars",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/rentcars/RTC",
+   "currency": "U$",
+   "current_points": 5.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 5.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 50,
+   "slug": "olympikus",
+   "code": "OVC",
+   "name": "Olympikus",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/olympikus/OVC",
+   "currency": "R$",
+   "current_points": 1.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 51,
+   "slug": "amobeleza",
+   "code": "AMO",
+   "name": "AMOBELEZA",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/amobeleza/AMO",
+   "currency": "R$",
+   "current_points": 1.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 52,
+   "slug": "kabum",
+   "code": "KBM",
+   "name": "Kabum!",
+   "partner_url": "https://www.livelo.com.br/juntar-pontos/parceiros/kabum/KBM",
+   "currency": "R$",
+   "current_points": 1.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 53,
+   "slug": "adcos",
+   "code": "SPA",
+   "name": "ADCOS",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/adcos/SPA",
+   "currency": "R$",
+   "current_points": 1.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 54,
+   "slug": "beto-carrero",
+   "code": "JBW",
+   "name": "Beto Carrero World",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/beto-carrero/JBW",
+   "currency": "R$",
+   "current_points": 2.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 55,
+   "slug": "hope",
+   "code": "HPE",
+   "name": "Hope",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/hope/HPE",
+   "currency": "R$",
+   "current_points": 2.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": 3.0,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": 3.0,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 56,
+   "slug": "buser",
+   "code": "BSR",
+   "name": "Buser",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/buser/BSR",
+   "currency": "R$",
+   "current_points": 2.0,
+   "current_points_is_up_to": true,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 2.0,
+     "points_is_up_to": true,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 57,
+   "slug": "consorcio-magalu",
+   "code": "MGC",
+   "name": "Consórcio Magalu",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/consorcio-magalu/MGC",
+   "currency": "R$",
+   "current_points": 30.0,
+   "current_points_is_up_to": true,
+   "current_points_previous": 6.0,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": true,
+   "is_new_partner": false,
+   "variation_pct": 400.0,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 30.0,
+     "points_is_up_to": true,
+     "points_clube": null,
+     "is_promo": true
+    }
+   ]
+  },
+  {
+   "id": 58,
+   "slug": "coffee-mais",
+   "code": "CFF",
+   "name": "Coffee Mais",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/coffee-mais/CFF",
+   "currency": "R$",
+   "current_points": 4.0,
+   "current_points_is_up_to": true,
+   "current_points_previous": 3.0,
+   "current_points_clube": 10.0,
+   "current_points_clube_previous": 3.0,
+   "is_promo": true,
+   "is_new_partner": false,
+   "variation_pct": 33.3,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 4.0,
+     "points_is_up_to": true,
+     "points_clube": 10.0,
+     "is_promo": true
+    }
+   ]
+  },
+  {
+   "id": 59,
+   "slug": "crocs",
+   "code": "CRO",
+   "name": "Crocs",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/crocs/CRO",
+   "currency": "R$",
+   "current_points": 2.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 60,
+   "slug": "abelha-rainha",
+   "code": "BLH",
+   "name": "Abelha Rainha",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/abelha-rainha/BLH",
+   "currency": "R$",
+   "current_points": 3.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 3.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 61,
+   "slug": "mizuno",
+   "code": "VMZ",
+   "name": "Mizuno",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/mizuno/VMZ",
+   "currency": "R$",
+   "current_points": 1.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 62,
+   "slug": "unidas",
+   "code": "UND",
+   "name": "Unidas",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/unidas/UND",
+   "currency": "R$",
+   "current_points": 2.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 63,
+   "slug": "granado",
+   "code": "CGN",
+   "name": "Granado",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/granado/CGN",
+   "currency": "R$",
+   "current_points": 1.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 64,
+   "slug": "bagaggio",
+   "code": "BAG",
+   "name": "Bagaggio",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/bagaggio/BAG",
+   "currency": "R$",
+   "current_points": 1.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 65,
+   "slug": "tim",
+   "code": "TIM",
+   "name": "TIM",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/tim/TIM",
+   "currency": "R$",
+   "current_points": 6.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 6.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 66,
+   "slug": "vivara",
+   "code": "VVR",
+   "name": "Vivara",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/vivara/VVR",
+   "currency": "R$",
+   "current_points": 1.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 67,
+   "slug": "posthaus",
+   "code": "PTH",
+   "name": "Posthaus",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/posthaus/PTH",
+   "currency": "R$",
+   "current_points": 1.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 68,
+   "slug": "assist-card-seguros",
+   "code": "ASC",
+   "name": "Assist Card Seguro-Viagem",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/assist-card-seguros/ASC",
+   "currency": "R$",
+   "current_points": 12.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": 1.0,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": true,
+   "is_new_partner": false,
+   "variation_pct": 1100.0,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 12.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": true
+    }
+   ]
+  },
+  {
+   "id": 69,
+   "slug": "under-armour",
+   "code": "VCA",
+   "name": "Under Armour",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/under-armour/VCA",
+   "currency": "R$",
+   "current_points": 1.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 70,
+   "slug": "asics",
+   "code": "ACS",
+   "name": "Asics",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/asics/ACS",
+   "currency": "R$",
+   "current_points": 1.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 71,
+   "slug": "morana",
+   "code": "MRN",
+   "name": "Morana",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/morana/MRN",
+   "currency": "R$",
+   "current_points": 3.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 3.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 72,
+   "slug": "quem-disse-berenice",
+   "code": "QDB",
+   "name": "Quem Disse, Berenice?",
+   "partner_url": "https://www.livelo.com.br/juntar-pontos/parceiros/quem-disse-berenice/QDB",
+   "currency": "R$",
+   "current_points": 3.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 3.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 73,
+   "slug": "loungerie",
+   "code": "LGR",
+   "name": "Loungerie",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/loungerie/LGR",
+   "currency": "R$",
+   "current_points": 1.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 74,
+   "slug": "max-titanium",
+   "code": "SUP",
+   "name": "Max Titanium",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/max-titanium/SUP",
+   "currency": "R$",
+   "current_points": 1.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 75,
+   "slug": "gocase",
+   "code": "GCS",
+   "name": "Go case",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/gocase/GCS",
+   "currency": "R$",
+   "current_points": 2.0,
+   "current_points_is_up_to": true,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 2.0,
+     "points_is_up_to": true,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 76,
+   "slug": "allianz",
+   "code": "ALZ",
+   "name": "Allianz",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/allianz/ALZ",
+   "currency": "R$",
+   "current_points": 4.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 4.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 77,
+   "slug": "new-balance",
+   "code": "NWB",
+   "name": "New Balance",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/new-balance/NWB",
+   "currency": "R$",
+   "current_points": 2.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 78,
+   "slug": "loccitane-au-bresil",
+   "code": "LCC",
+   "name": "Loccitane au Bresil",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/loccitane-au-bresil/LCC",
+   "currency": "R$",
+   "current_points": 1.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 79,
+   "slug": "bibi-calcados",
+   "code": "BBB",
+   "name": "Bibi",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/bibi-calcados/BBB",
+   "currency": "R$",
+   "current_points": 2.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": 1.0,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": true,
+   "is_new_partner": false,
+   "variation_pct": 100.0,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": true
+    }
+   ]
+  },
+  {
+   "id": 80,
+   "slug": "puket",
+   "code": "PKT",
+   "name": "Puket",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/puket/PKT",
+   "currency": "R$",
+   "current_points": 1.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 81,
+   "slug": "mondaine",
+   "code": "MDN",
+   "name": "Mondaine",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/mondaine/MDN",
+   "currency": "R$",
+   "current_points": 2.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 82,
+   "slug": "dudalina",
+   "code": "DDL",
+   "name": "Dudalina",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/dudalina/DDL",
+   "currency": "R$",
+   "current_points": 2.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 83,
+   "slug": "beep",
+   "code": "BEP",
+   "name": "Beep",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/beep/BEP",
+   "currency": "R$",
+   "current_points": 7.0,
+   "current_points_is_up_to": true,
+   "current_points_previous": 1.0,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": true,
+   "is_new_partner": false,
+   "variation_pct": 600.0,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 7.0,
+     "points_is_up_to": true,
+     "points_clube": null,
+     "is_promo": true
+    }
+   ]
+  },
+  {
+   "id": 84,
+   "slug": "democrata",
+   "code": "DMC",
+   "name": "Democrata",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/democrata/DMC",
+   "currency": "R$",
+   "current_points": 4.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": 2.0,
+   "current_points_clube": 6.0,
+   "current_points_clube_previous": 2.0,
+   "is_promo": true,
+   "is_new_partner": false,
+   "variation_pct": 100.0,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 4.0,
+     "points_is_up_to": false,
+     "points_clube": 6.0,
+     "is_promo": true
+    }
+   ]
+  },
+  {
+   "id": 85,
+   "slug": "fila",
+   "code": "FLA",
+   "name": "Fila",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/fila/FLA",
+   "currency": "R$",
+   "current_points": 2.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 86,
+   "slug": "colcci",
+   "code": "GAM",
+   "name": "Colcci",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/colcci/GAM",
+   "currency": "R$",
+   "current_points": 2.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 87,
+   "slug": "lelis",
+   "code": "LLB",
+   "name": "LE LIS",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/lelis/LLB",
+   "currency": "R$",
+   "current_points": 2.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 88,
+   "slug": "converse",
+   "code": "CCL",
+   "name": "Converse",
+   "partner_url": "https://www.livelo.com.br/juntar-pontos/parceiros/converse/CCL",
+   "currency": "R$",
+   "current_points": 2.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 89,
+   "slug": "pneu-store",
+   "code": "CPX",
+   "name": "PneuStore",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/pneu-store/CPX",
+   "currency": "R$",
+   "current_points": 1.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 90,
+   "slug": "truss",
+   "code": "TUS",
+   "name": "Truss",
+   "partner_url": "https://www.livelo.com.br/juntar-pontos/parceiros/truss/TUS",
+   "currency": "R$",
+   "current_points": 3.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 3.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 91,
+   "slug": "elbo",
+   "code": "ELB",
+   "name": "elbo",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/elbo/ELB",
+   "currency": "R$",
+   "current_points": 1.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 92,
+   "slug": "seculus",
+   "code": "SCL",
+   "name": "Seculus",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/seculus/SCL",
+   "currency": "R$",
+   "current_points": 2.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 93,
+   "slug": "sulamerica-seguro-viagem",
+   "code": "SUL",
+   "name": "SulAmérica Seguro Viagem",
+   "partner_url": "https://www.livelo.com.br/juntar-pontos/parceiros/sulamerica-seguro-viagem/SUL",
+   "currency": "R$",
+   "current_points": 12.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": 10.0,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": true,
+   "is_new_partner": false,
+   "variation_pct": 20.0,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 12.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": true
+    }
+   ]
+  },
+  {
+   "id": 94,
+   "slug": "samsonite",
+   "code": "SMS",
+   "name": "Samsonite",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/samsonite/SMS",
+   "currency": "R$",
+   "current_points": 2.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 95,
+   "slug": "vult",
+   "code": "VUL",
+   "name": "Vult",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/vult/VUL",
+   "currency": "R$",
+   "current_points": 3.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 3.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 96,
+   "slug": "loccitane",
+   "code": "PRV",
+   "name": "Loccitane",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/loccitane/PRV",
+   "currency": "R$",
+   "current_points": 1.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 97,
+   "slug": "faber-castell",
+   "code": "FBC",
+   "name": "Faber-Castell",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/faber-castell/FBC",
+   "currency": "R$",
+   "current_points": 2.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 98,
+   "slug": "easy-live",
+   "code": "ESL",
+   "name": "Easy Live",
+   "partner_url": "https://www.livelo.com.br/juntar-pontos/parceiros/easy-live/ESL",
+   "currency": "R$",
+   "current_points": 1.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 99,
+   "slug": "zeedog",
+   "code": "ZDG",
+   "name": "Zee.Dog",
+   "partner_url": "https://www.livelo.com.br/juntar-pontos/parceiros/zeedog/ZDG",
+   "currency": "R$",
+   "current_points": 2.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 100,
+   "slug": "malwee",
+   "code": "MLW",
+   "name": "Malwee",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/malwee/MLW",
+   "currency": "R$",
+   "current_points": 2.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 101,
+   "slug": "osklen",
+   "code": "OSK",
+   "name": "Osklen",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/osklen/OSK",
+   "currency": "R$",
+   "current_points": 2.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 102,
+   "slug": "zattini",
+   "code": "ZTN",
+   "name": "Zattini",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/zattini/ZTN",
+   "currency": "R$",
+   "current_points": 2.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 103,
+   "slug": "edp",
+   "code": "EDP",
+   "name": "EDP",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/edp/EDP",
+   "currency": "R$",
+   "current_points": 6.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 6.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 104,
+   "slug": "bobo",
+   "code": "RBO",
+   "name": "BO.BÔ",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/bobo/RBO",
+   "currency": "R$",
+   "current_points": 3.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 3.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 105,
+   "slug": "foco",
+   "code": "FOC",
+   "name": "Foco",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/foco/FOC",
+   "currency": "R$",
+   "current_points": 2.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 106,
+   "slug": "mistral",
+   "code": "MIS",
+   "name": "Mistral",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/mistral/MIS",
+   "currency": "R$",
+   "current_points": 1.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 107,
+   "slug": "tokio-marine",
+   "code": "TOM",
+   "name": "Tokio Marine Seguros",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/tokio-marine/TOM",
+   "currency": "R$",
+   "current_points": 10.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 10.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 108,
+   "slug": "seus-ingressos",
+   "code": "SIN",
+   "name": "Seus Ingressos",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/seus-ingressos/SIN",
+   "currency": "R$",
+   "current_points": 2.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 109,
+   "slug": "ciclic",
+   "code": "CIC",
+   "name": "Ciclic Seguro Viagem",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/ciclic/CIC",
+   "currency": "R$",
+   "current_points": 14.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": 8.0,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": true,
+   "is_new_partner": false,
+   "variation_pct": 75.0,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 14.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": true
+    }
+   ]
+  },
+  {
+   "id": 110,
+   "slug": "seguro-viagem-bradesco",
+   "code": "BVP",
+   "name": "Seguro Viagem Bradesco",
+   "partner_url": "https://www.livelo.com.br/juntar-pontos/parceiros/seguro-viagem-bradesco/BVP",
+   "currency": "R$",
+   "current_points": 10.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 10.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 111,
+   "slug": "localiza-meoo",
+   "code": "LFL",
+   "name": "Localiza Meoo",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/localiza-meoo/LFL",
+   "currency": "R$",
+   "current_points": 4.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 4.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 112,
+   "slug": "guess",
+   "code": "GSS",
+   "name": "Guess",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/guess/GSS",
+   "currency": "R$",
+   "current_points": 2.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 113,
+   "slug": "estoque",
+   "code": "RTQ",
+   "name": "Estoque",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/estoque/RTQ",
+   "currency": "R$",
+   "current_points": 1.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 114,
+   "slug": "cafe-orfeu",
+   "code": "CFO",
+   "name": "Café Orfeu",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/cafe-orfeu/CFO",
+   "currency": "R$",
+   "current_points": 3.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 3.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 115,
+   "slug": "tia-sonia",
+   "code": "AMT",
+   "name": "Tia Sônia",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/tia-sonia/AMT",
+   "currency": "R$",
+   "current_points": 3.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 3.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 116,
+   "slug": "john-john",
+   "code": "JOH",
+   "name": "John John",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/john-john/JOH",
+   "currency": "R$",
+   "current_points": 2.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 117,
+   "slug": "o.u.i-paris",
+   "code": "OUI",
+   "name": "O.U.i Paris",
+   "partner_url": "https://www.livelo.com.br/juntar-pontos/parceiros/o.u.i-paris/OUI",
+   "currency": "R$",
+   "current_points": 3.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 3.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 118,
+   "slug": "gazin",
+   "code": "GZN",
+   "name": "Gazin",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/gazin/GZN",
+   "currency": "R$",
+   "current_points": 2.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 119,
+   "slug": "imaginarium",
+   "code": "IMG",
+   "name": "Imaginarium",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/imaginarium/IMG",
+   "currency": "R$",
+   "current_points": 1.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 120,
+   "slug": "forever-liss",
+   "code": "LSS",
+   "name": "Forever Liss",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/forever-liss/LSS",
+   "currency": "R$",
+   "current_points": 2.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 121,
+   "slug": "oceane",
+   "code": "OCN",
+   "name": "Oceane",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/oceane/OCN",
+   "currency": "R$",
+   "current_points": 2.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 122,
+   "slug": "probiotica",
+   "code": "PBT",
+   "name": "Probiótica",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/probiotica/PBT",
+   "currency": "R$",
+   "current_points": 1.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 123,
+   "slug": "quero-passagem",
+   "code": "QPV",
+   "name": "Quero Passagem",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/quero-passagem/QPV",
+   "currency": "R$",
+   "current_points": 1.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 124,
+   "slug": "mycon",
+   "code": "MYC",
+   "name": "Mycon Consórcio Digital",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/mycon/MYC",
+   "currency": "R$",
+   "current_points": 32.0,
+   "current_points_is_up_to": true,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 32.0,
+     "points_is_up_to": true,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 125,
+   "slug": "hertz-internacional",
+   "code": "SGV",
+   "name": "Hertz Internacional",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/hertz-internacional/SGV",
+   "currency": "U$",
+   "current_points": 6.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 6.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 126,
+   "slug": "lacoste",
+   "code": "LCT",
+   "name": "Lacoste",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/lacoste/LCT",
+   "currency": "R$",
+   "current_points": 2.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 127,
+   "slug": "beach-park",
+   "code": "BHP",
+   "name": "Beach Park Ingressos",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/beach-park/BHP",
+   "currency": "R$",
+   "current_points": 1.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 128,
+   "slug": "technos",
+   "code": "TEC",
+   "name": "Technos",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/technos/TEC",
+   "currency": "R$",
+   "current_points": 2.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 129,
+   "slug": "mobills",
+   "code": "MBS",
+   "name": "Mobills",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/mobills/MBS",
+   "currency": "R$",
+   "current_points": 10.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 10.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 130,
+   "slug": "supernosso",
+   "code": "SPN",
+   "name": "Supernosso",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/supernosso/SPN",
+   "currency": "R$",
+   "current_points": 1.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 131,
+   "slug": "liz",
+   "code": "CMR",
+   "name": "Liz",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/liz/CMR",
+   "currency": "R$",
+   "current_points": 1.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 132,
+   "slug": "meia-sola",
+   "code": "MSA",
+   "name": "Meia Sola",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/meia-sola/MSA",
+   "currency": "R$",
+   "current_points": 2.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 133,
+   "slug": "frigelar",
+   "code": "FRG",
+   "name": "Frigelar",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/frigelar/FRG",
+   "currency": "R$",
+   "current_points": 1.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 134,
+   "slug": "buddha-spa",
+   "code": "BDH",
+   "name": "Buddha Spa",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/buddha-spa/BDH",
+   "currency": "R$",
+   "current_points": 2.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 135,
+   "slug": "hope-resort",
+   "code": "RST",
+   "name": "Hope Resort",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/hope-resort/RST",
+   "currency": "R$",
+   "current_points": 2.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 136,
+   "slug": "studioz",
+   "code": "STZ",
+   "name": "Studio Z",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/studioz/STZ",
+   "currency": "R$",
+   "current_points": 2.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 137,
+   "slug": "portallar",
+   "code": "PLL",
+   "name": "Portallar",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/portallar/PLL",
+   "currency": "R$",
+   "current_points": 2.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 138,
+   "slug": "bulbe",
+   "code": "BLB",
+   "name": "Bulbe Energia",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/bulbe/BLB",
+   "currency": "R$",
+   "current_points": 12.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 12.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 139,
+   "slug": "liga-vitoria",
+   "code": "LSV",
+   "name": "Liga Vitória Seguro de Vida",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/liga-vitoria/LSV",
+   "currency": "R$",
+   "current_points": 3.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 100.0,
+     "points_is_up_to": true,
+     "points_clube": null,
+     "is_promo": true
+    },
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 3.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 140,
+   "slug": "coris",
+   "code": "CRS",
+   "name": "Coris",
+   "partner_url": "https://www.livelo.com.br/juntar-pontos/parceiros/coris/CRS",
+   "currency": "R$",
+   "current_points": 5.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 5.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 141,
+   "slug": "salinas",
+   "code": "SLN",
+   "name": "Salinas",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/salinas/SLN",
+   "currency": "R$",
+   "current_points": 2.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 142,
+   "slug": "montecarlo",
+   "code": "MCV",
+   "name": "Monte Carlo",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/montecarlo/MCV",
+   "currency": "R$",
+   "current_points": 2.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 143,
+   "slug": "individual",
+   "code": "IND",
+   "name": "Individual",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/individual/IND",
+   "currency": "R$",
+   "current_points": 1.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 144,
+   "slug": "bombay-herbse-spices",
+   "code": "BBH",
+   "name": "Bombay Herbs & Spices",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/bombay-herbse-spices/BBH",
+   "currency": "R$",
+   "current_points": 2.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 145,
+   "slug": "localiza-internacional",
+   "code": "LCI",
+   "name": "Localiza Internacional",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/localiza-internacional/LCI",
+   "currency": "U$",
+   "current_points": 5.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 5.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 146,
+   "slug": "cestas-michelli",
+   "code": "MCH",
+   "name": "Cestas Michelli",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/cestas-michelli/MCH",
+   "currency": "R$",
+   "current_points": 3.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 3.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 147,
+   "slug": "giuliana-flores",
+   "code": "GFL",
+   "name": "Giuliana Flores",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/giuliana-flores/GFL",
+   "currency": "R$",
+   "current_points": 3.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": 5.0,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 3.0,
+     "points_is_up_to": false,
+     "points_clube": 5.0,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 148,
+   "slug": "speedo",
+   "code": "SPD",
+   "name": "Speedo",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/speedo/SPD",
+   "currency": "R$",
+   "current_points": 2.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": 4.0,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": 4.0,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 149,
+   "slug": "divvino",
+   "code": "AGN",
+   "name": "Divvino",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/divvino/AGN",
+   "currency": "R$",
+   "current_points": 1.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 150,
+   "slug": "cartao-de-todos",
+   "code": "TOD",
+   "name": "Cartão de Todos",
+   "partner_url": "https://www.livelo.com.br/juntar-pontos/parceiros/cartao-de-todos/TOD",
+   "currency": "R$",
+   "current_points": 2.0,
+   "current_points_is_up_to": true,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 2.0,
+     "points_is_up_to": true,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 151,
+   "slug": "fossil",
+   "code": "SCS",
+   "name": "Fóssil",
+   "partner_url": "https://www.livelo.com.br/juntar-pontos/parceiros/fossil/SCS",
+   "currency": "R$",
+   "current_points": 2.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 152,
+   "slug": "hot-beach",
+   "code": "HBC",
+   "name": "Hot Beach",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/hot-beach/HBC",
+   "currency": "R$",
+   "current_points": 1.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 153,
+   "slug": "ellus",
+   "code": "ELS",
+   "name": "Ellus",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/ellus/ELS",
+   "currency": "R$",
+   "current_points": 2.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 154,
+   "slug": "avis",
+   "code": "VNT",
+   "name": "avis",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/avis/VNT",
+   "currency": "R$",
+   "current_points": 1.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 155,
+   "slug": "cruzeiros-agaxtur",
+   "code": "AGX",
+   "name": "Agaxtur Cruzeiros",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/cruzeiros-agaxtur/AGX",
+   "currency": "R$",
+   "current_points": 2.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 156,
+   "slug": "tripchip",
+   "code": "SKA",
+   "name": "TripChip",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/tripchip/SKA",
+   "currency": "R$",
+   "current_points": 5.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 5.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 157,
+   "slug": "horas-magicas",
+   "code": "HMG",
+   "name": "Horas Magicas",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/horas-magicas/HMG",
+   "currency": "R$",
+   "current_points": 1.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 158,
+   "slug": "viajar",
+   "code": "VJR",
+   "name": "Viajar",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/viajar/VJR",
+   "currency": "R$",
+   "current_points": 2.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 159,
+   "slug": "euro",
+   "code": "EUR",
+   "name": "Euro",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/euro/EUR",
+   "currency": "R$",
+   "current_points": 1.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 160,
+   "slug": "portoseguro",
+   "code": "POT",
+   "name": "Porto Seguro",
+   "partner_url": "https://www.livelo.com.br/juntar-pontos/parceiros/portoseguro/POT",
+   "currency": "R$",
+   "current_points": 20.0,
+   "current_points_is_up_to": true,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 20.0,
+     "points_is_up_to": true,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 161,
+   "slug": "medsenior",
+   "code": "MED",
+   "name": "MedSênior",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/medsenior/MED",
+   "currency": "R$",
+   "current_points": 7.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 7.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 162,
+   "slug": "zee.now",
+   "code": "ZNW",
+   "name": "Zee.Now",
+   "partner_url": "https://www.livelo.com.br/juntar-pontos/parceiros/zee.now/ZNW",
+   "currency": "R$",
+   "current_points": 1.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 163,
+   "slug": "consorcio-embracon",
+   "code": null,
+   "name": "Consórcio Embracon",
+   "partner_url": "https://www.livelo.com.br/juntar-pontos/parceiros/embracon/EMB ",
+   "currency": "R$",
+   "current_points": 11.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 11.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 164,
+   "slug": "shoestock",
+   "code": "NSC",
+   "name": "Shoestock",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/shoestock/NSC",
+   "currency": "R$",
+   "current_points": 2.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 165,
+   "slug": "piatan-natural",
+   "code": "PAT",
+   "name": "Piatan Natural",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/piatan-natural/PAT",
+   "currency": "R$",
+   "current_points": 10.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": 3.0,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": true,
+   "is_new_partner": false,
+   "variation_pct": 233.3,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 10.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": true
+    }
+   ]
+  },
+  {
+   "id": 166,
+   "slug": "umbro",
+   "code": "FIL",
+   "name": "Umbro",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/umbro/FIL",
+   "currency": "R$",
+   "current_points": 2.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 167,
+   "slug": "lego",
+   "code": "LEG",
+   "name": "LEGO",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/lego/LEG",
+   "currency": "R$",
+   "current_points": 1.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 168,
+   "slug": "grupo-dreams",
+   "code": "DRT",
+   "name": "Grupo Dreams",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/grupo-dreams/DRT",
+   "currency": "R$",
+   "current_points": 4.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 4.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 169,
+   "slug": "hering-outlet",
+   "code": "OUT",
+   "name": "Hering Outlet",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/hering-outlet/OUT",
+   "currency": "R$",
+   "current_points": 1.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 170,
+   "slug": "budget",
+   "code": "VBU",
+   "name": "Budget",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/budget/VBU",
+   "currency": "R$",
+   "current_points": 1.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 171,
+   "slug": "richards",
+   "code": "IRC",
+   "name": "Richards",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/richards/IRC",
+   "currency": "R$",
+   "current_points": 2.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 172,
+   "slug": "sulamerica-seguro-odonto",
+   "code": "SUO",
+   "name": "SulAmérica Plano Odonto",
+   "partner_url": "https://www.livelo.com.br/juntar-pontos/parceiros/sulamerica-seguro-odonto/SUO",
+   "currency": "R$",
+   "current_points": 6.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 6.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 173,
+   "slug": "bradesco-capitalizacao",
+   "code": "CLZ",
+   "name": "Bradesco Capitalização",
+   "partner_url": "https://www.livelo.com.br/juntar-pontos/parceiros/bradesco-capitalizacao/CLZ",
+   "currency": "R$",
+   "current_points": 2.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 174,
+   "slug": "universal-assistance",
+   "code": "AST",
+   "name": "Universal Assistance – Seguro Viagem",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/universal-assistance/AST",
+   "currency": "R$",
+   "current_points": 10.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": 6.0,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": true,
+   "is_new_partner": false,
+   "variation_pct": 66.7,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 10.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": true
+    }
+   ]
+  },
+  {
+   "id": 175,
+   "slug": "summerville",
+   "code": "PPH",
+   "name": "Summerville",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/summerville/PPH",
+   "currency": "R$",
+   "current_points": 2.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 176,
+   "slug": "dufrio",
+   "code": "DUF",
+   "name": "Dufrio",
+   "partner_url": "https://www.livelo.com.br/juntar-pontos/parceiros/dufrio/DUF",
+   "currency": "R$",
+   "current_points": 1.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 177,
+   "slug": "travelex",
+   "code": "TSS",
+   "name": "Travelex",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/travelex/TSS",
+   "currency": "U$",
+   "current_points": 1.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 178,
+   "slug": "acer",
+   "code": "ACE",
+   "name": "ACER",
+   "partner_url": "https://www.livelo.com.br/juntar-pontos/parceiros/acer/ACE",
+   "currency": "R$",
+   "current_points": 2.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 179,
+   "slug": "nars",
+   "code": "NRS",
+   "name": "Nars",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/nars/NRS",
+   "currency": "R$",
+   "current_points": 3.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 3.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 180,
+   "slug": "baianao",
+   "code": "BNM",
+   "name": "Baianão",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/baianao/BNM",
+   "currency": "R$",
+   "current_points": 1.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 181,
+   "slug": "quintess",
+   "code": "LHS",
+   "name": "Quintess",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/quintess/LHS",
+   "currency": "R$",
+   "current_points": 3.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 3.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 182,
+   "slug": "alura",
+   "code": "ALU",
+   "name": "Alura",
+   "partner_url": "https://www.livelo.com.br/juntar-pontos/parceiros/alura/ALU",
+   "currency": "R$",
+   "current_points": 1.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 183,
+   "slug": "shiseido",
+   "code": "SHS",
+   "name": "Shiseido",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/shiseido/SHS",
+   "currency": "R$",
+   "current_points": 3.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 3.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 184,
+   "slug": "ciclic-celular",
+   "code": "CEL",
+   "name": "Ciclic Seguro Celular",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/ciclic-celular/CEL",
+   "currency": "R$",
+   "current_points": 5.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": 4.0,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": true,
+   "is_new_partner": false,
+   "variation_pct": 25.0,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 5.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": true
+    }
+   ]
+  },
+  {
+   "id": 185,
+   "slug": "beyoung",
+   "code": "BYG",
+   "name": "Beyoung",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/beyoung/BYG",
+   "currency": "R$",
+   "current_points": 3.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 3.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 186,
+   "slug": "oxford",
+   "code": "OXF",
+   "name": "Oxford",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/oxford/OXF",
+   "currency": "R$",
+   "current_points": 2.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 187,
+   "slug": "estapar",
+   "code": "EST",
+   "name": "Estapar",
+   "partner_url": "https://www.livelo.com.br/juntar-pontos/parceiros/estapar/EST",
+   "currency": "R$",
+   "current_points": 1.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 188,
+   "slug": "bobstore",
+   "code": "IBB",
+   "name": "Bobstore",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/bobstore/IBB",
+   "currency": "R$",
+   "current_points": 2.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 189,
+   "slug": "luxury-loyalty",
+   "code": "LLY",
+   "name": "Luxury Loyalty",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/luxury-loyalty/LLY",
+   "currency": "R$",
+   "current_points": 2.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 190,
+   "slug": "zissou",
+   "code": "ZSS",
+   "name": "Zissou",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/zissou/ZSS",
+   "currency": "R$",
+   "current_points": 3.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 3.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 191,
+   "slug": "portal-das-malas",
+   "code": "PDM",
+   "name": "Portal das Malas",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/portal-das-malas/PDM",
+   "currency": "R$",
+   "current_points": 1.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 192,
+   "slug": "yvy",
+   "code": "YVY",
+   "name": "Yvy",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/yvy/YVY",
+   "currency": "R$",
+   "current_points": 3.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 3.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 193,
+   "slug": "cabana-magazine",
+   "code": "GRM",
+   "name": "Cabana Magazine",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/cabana-magazine/GRM",
+   "currency": "R$",
+   "current_points": 1.0,
+   "current_points_is_up_to": true,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 1.0,
+     "points_is_up_to": true,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 194,
+   "slug": "reserve-car",
+   "code": "RSC",
+   "name": "Reservecar",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/reserve-car/RSC",
+   "currency": "R$",
+   "current_points": 2.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 195,
+   "slug": "thule",
+   "code": "THL",
+   "name": "Thule",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/thule/THL",
+   "currency": "R$",
+   "current_points": 1.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 196,
+   "slug": "qcompra",
+   "code": "QCP",
+   "name": "Qcompra",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/qcompra/QCP",
+   "currency": "R$",
+   "current_points": 3.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 3.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 197,
+   "slug": "sixt",
+   "code": "SXT",
+   "name": "Sixt",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/sixt/SXT",
+   "currency": "R$",
+   "current_points": 1.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 198,
+   "slug": "mapfre",
+   "code": "MPF",
+   "name": "MAPFRE Seguro Auto",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/mapfre/MPF",
+   "currency": "R$",
+   "current_points": 1.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 199,
+   "slug": "hero",
+   "code": "HRH",
+   "name": "HERO SEGURO VIAGEM",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/hero/HRH",
+   "currency": "R$",
+   "current_points": 14.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 14.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 200,
+   "slug": "vr-collezioni",
+   "code": "VRC",
+   "name": "VR Collezioni",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/vr-collezioni/VRC",
+   "currency": "R$",
+   "current_points": 2.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 201,
+   "slug": "coliseu",
+   "code": "CLS",
+   "name": "Coliseu",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/coliseu/CLS",
+   "currency": "R$",
+   "current_points": 2.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 202,
+   "slug": "quero-quero",
+   "code": "LQQ",
+   "name": "Quero-Quero",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/quero-quero/LQQ",
+   "currency": "R$",
+   "current_points": 1.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 203,
+   "slug": "bankei",
+   "code": "ban",
+   "name": "Bankei",
+   "partner_url": "https://www.livelo.com.br/juntar-pontos/parceiros/bankei/ban",
+   "currency": "R$",
+   "current_points": 2.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 204,
+   "slug": "dako",
+   "code": "DKO",
+   "name": "Dako",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/dako/DKO",
+   "currency": "R$",
+   "current_points": 1.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 205,
+   "slug": "cook-eletroraro",
+   "code": "COK",
+   "name": "Cook Eletroraro",
+   "partner_url": "https://www.livelo.com.br/juntar-pontos/parceiros/cook-eletroraro/COK",
+   "currency": "R$",
+   "current_points": 1.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 206,
+   "slug": "mobifacil",
+   "code": "MOB",
+   "name": "Mobifácil",
+   "partner_url": "https://www.livelo.com.br/juntar-pontos/parceiros/mobifacil/MOB",
+   "currency": "R$",
+   "current_points": 1.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 207,
+   "slug": "wise-up",
+   "code": "WSP",
+   "name": "Wise UP",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/wise-up/WSP",
+   "currency": "R$",
+   "current_points": 2.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 208,
+   "slug": "klubi-viagem",
+   "code": "VIA",
+   "name": "Klubi Consórcio Viagem",
+   "partner_url": "https://www.livelo.com.br/juntar-pontos/parceiros/klubi-viagem/VIA",
+   "currency": "R$",
+   "current_points": 40.0,
+   "current_points_is_up_to": true,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 40.0,
+     "points_is_up_to": true,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 209,
+   "slug": "trocafy",
+   "code": "ALD",
+   "name": "Trocafy",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/trocafy/ALD",
+   "currency": "R$",
+   "current_points": 1.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": 2.0,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": 2.0,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 210,
+   "slug": "top-moveis",
+   "code": "TMS",
+   "name": "Top Móveis",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/top-moveis/TMS",
+   "currency": "R$",
+   "current_points": 1.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 211,
+   "slug": "spicy",
+   "code": "MCB",
+   "name": "Spicy",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/spicy/MCB",
+   "currency": "R$",
+   "current_points": 1.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 212,
+   "slug": "klubi-consorcio-auto",
+   "code": null,
+   "name": "Klubi Consórcio Auto",
+   "partner_url": "https://www.livelo.com.br/juntar-pontos/parceiros/klubi-auto/AUT ",
+   "currency": "R$",
+   "current_points": 40.0,
+   "current_points_is_up_to": true,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 40.0,
+     "points_is_up_to": true,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 213,
+   "slug": "klabin",
+   "code": "KLB",
+   "name": "Klabin ForYou",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/klabin/KLB",
+   "currency": "R$",
+   "current_points": 1.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 214,
+   "slug": "next",
+   "code": "NXE",
+   "name": "Next Seguro Viagem",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/next/NXE",
+   "currency": "R$",
+   "current_points": 3.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 3.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 215,
+   "slug": "guldi",
+   "code": "GUL",
+   "name": "Guldi",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/guldi/GUL",
+   "currency": "R$",
+   "current_points": 1.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 216,
+   "slug": "creditas",
+   "code": "CRD",
+   "name": "Creditas",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/creditas/CRD",
+   "currency": "R$",
+   "current_points": 1.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 217,
+   "slug": "maltacor",
+   "code": "MAL",
+   "name": "Maltacor",
+   "partner_url": "https://www.livelo.com.br/juntar-pontos/parceiros/maltacor/MAL",
+   "currency": "R$",
+   "current_points": 5.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 5.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 218,
+   "slug": "pado",
+   "code": "PDO",
+   "name": "Pado",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/pado/PDO",
+   "currency": "R$",
+   "current_points": 2.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 219,
+   "slug": "liga-vitoria-auto",
+   "code": "LSA",
+   "name": "Liga Vitória Seguro Auto",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/liga-vitoria-auto/LSA",
+   "currency": "R$",
+   "current_points": 1.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 220,
+   "slug": "hero-seguro-celular",
+   "code": "CLE",
+   "name": "Hero Seguro Celular",
+   "partner_url": "https://www.livelo.com.br/juntar-pontos/parceiros/hero-seguro-celular/CLE",
+   "currency": "R$",
+   "current_points": 1.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 221,
+   "slug": "liga-vitoria-viagem",
+   "code": "LSG",
+   "name": "Liga Vitória - Seguro de Viagem",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/liga-vitoria-viagem/LSG",
+   "currency": "R$",
+   "current_points": 3.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 3.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 222,
+   "slug": "perfec-tdraft",
+   "code": "ABV",
+   "name": "PerfectDraft (Ambev)",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/perfec-tdraft/ABV",
+   "currency": "R$",
+   "current_points": 1.0,
+   "current_points_is_up_to": true,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 1.0,
+     "points_is_up_to": true,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 223,
+   "slug": "scudoo",
+   "code": "SIO",
+   "name": "Scudoo Seguro Celular",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/scudoo/SIO",
+   "currency": "R$",
+   "current_points": 4.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 4.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 224,
+   "slug": "max-racer",
+   "code": "BCI",
+   "name": "MaxRacer",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/max-racer/BCI",
+   "currency": "R$",
+   "current_points": 1.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 225,
+   "slug": "home-angels",
+   "code": "ZAI",
+   "name": "Home Angels",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/home-angels/ZAI",
+   "currency": "R$",
+   "current_points": 1.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 226,
+   "slug": "oficina",
+   "code": "RZZ",
+   "name": "Oficina",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/oficina/RZZ",
+   "currency": "R$",
+   "current_points": 1.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 227,
+   "slug": "liga-vitoria-residencial",
+   "code": "LSR",
+   "name": "Liga Vitória Seguro Residencial",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/liga-vitoria-residencial/LSR",
+   "currency": "R$",
+   "current_points": 3.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 3.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 228,
+   "slug": "klubi-imovel",
+   "code": "IMO",
+   "name": "Klubi Consórcio Imóvel",
+   "partner_url": "https://www.livelo.com.br/juntar-pontos/parceiros/klubi-imovel/IMO",
+   "currency": "R$",
+   "current_points": 40.0,
+   "current_points_is_up_to": true,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 40.0,
+     "points_is_up_to": true,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 229,
+   "slug": "mapfre-residencial",
+   "code": "MSR",
+   "name": "Seguro Residencial MAPFRE",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/mapfre-residencial/MSR",
+   "currency": "R$",
+   "current_points": 1.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 230,
+   "slug": "suhai",
+   "code": "SUH",
+   "name": "Suhai Seguradora",
+   "partner_url": "https://www.livelo.com.br/juntar-pontos/parceiros/suhai/SUH",
+   "currency": "R$",
+   "current_points": 2.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 231,
+   "slug": "klubi-moto",
+   "code": "MOT",
+   "name": "Klubi Consórcio Moto",
+   "partner_url": "https://www.livelo.com.br/juntar-pontos/parceiros/klubi-moto/MOT",
+   "currency": "R$",
+   "current_points": 40.0,
+   "current_points_is_up_to": true,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 40.0,
+     "points_is_up_to": true,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 232,
+   "slug": "liga-vitoria-moto",
+   "code": "LSM",
+   "name": "Liga Vitória Seguro Moto",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/liga-vitoria-moto/LSM",
+   "currency": "R$",
+   "current_points": 1.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 233,
+   "slug": "assinatura-coffemais",
+   "code": "ASS",
+   "name": "Assinatura Coffee Mais",
+   "partner_url": "https://www.livelo.com.br/juntar-pontos/parceiros/assinatura-coffemais/ASS",
+   "currency": "R$",
+   "current_points": 6.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 6.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 234,
+   "slug": "bradesco-consorcios",
+   "code": "BCS",
+   "name": "Bradesco Consórcios",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/bradesco-consorcios/BCS",
+   "currency": "R$",
+   "current_points": 30.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": 1.0,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": true,
+   "is_new_partner": false,
+   "variation_pct": 2900.0,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 30.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": true
+    }
+   ]
+  },
+  {
+   "id": 235,
+   "slug": "carters",
+   "code": "CTS",
+   "name": "Carters",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/carters/CTS",
+   "currency": "R$",
+   "current_points": 3.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 3.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 236,
+   "slug": "cinemark",
+   "code": null,
+   "name": "Cinemark",
+   "partner_url": "https://www.livelo.com.br/voucher-eletronico-cinemark-2d-imediato/produto/PRD4178877?skuId=SKU5194063",
+   "currency": "R$",
+   "current_points": 1.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 237,
+   "slug": "civitatis",
+   "code": "CIV",
+   "name": "Civitatis",
+   "partner_url": "https://www.livelo.com.br/juntar-pontos/parceiros/civitatis/CIV",
+   "currency": "R$",
+   "current_points": 1.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 238,
+   "slug": "clube-bancorbras",
+   "code": null,
+   "name": "Clube Bancorbrás",
+   "partner_url": "https://www.livelo.com.br/juntar-pontos/parceiros/clube-bancorbras/BCR ",
+   "currency": "R$",
+   "current_points": 25.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": 8.0,
+   "current_points_clube": 28.0,
+   "current_points_clube_previous": 8.0,
+   "is_promo": true,
+   "is_new_partner": false,
+   "variation_pct": 212.5,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 25.0,
+     "points_is_up_to": false,
+     "points_clube": 28.0,
+     "is_promo": true
+    }
+   ]
+  },
+  {
+   "id": 239,
+   "slug": "electrolux",
+   "code": "ELX",
+   "name": "Electrolux",
+   "partner_url": "https://www.livelo.com.br/juntar-pontos/parceiros/electrolux/ELX",
+   "currency": "R$",
+   "current_points": 2.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": 1.0,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": true,
+   "is_new_partner": false,
+   "variation_pct": 100.0,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": true
+    }
+   ]
+  },
+  {
+   "id": 240,
+   "slug": "hotel-nacional",
+   "code": "WHN",
+   "name": "Hotel Nacional",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/hotel-nacional/WHN",
+   "currency": "R$",
+   "current_points": 1.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 241,
+   "slug": "klubi-celular",
+   "code": "KLU",
+   "name": "Klubi Consórcio Celular",
+   "partner_url": "https://www.livelo.com.br/juntar-pontos/parceiros/klubi-celular/KLU",
+   "currency": "R$",
+   "current_points": 40.0,
+   "current_points_is_up_to": true,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 40.0,
+     "points_is_up_to": true,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 242,
+   "slug": "loja-do-mecanico",
+   "code": "LMC",
+   "name": "Loja do Mecânico",
+   "partner_url": "https://www.livelo.com.br/juntar-pontos/parceiros/loja-do-mecanico/LMC",
+   "currency": "R$",
+   "current_points": 1.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 243,
+   "slug": "lojas-torra",
+   "code": "TRR",
+   "name": "Lojas Torra",
+   "partner_url": "https://www.livelo.com.br/juntar-pontos/parceiros/lojas-torra/TRR",
+   "currency": "R$",
+   "current_points": 3.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": true,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 3.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 244,
+   "slug": "OLX",
+   "code": "OLX",
+   "name": "OLX",
+   "partner_url": "https://www.livelo.com.br/juntar-pontos/parceiros/OLX/OLX",
+   "currency": "R$",
+   "current_points": 1.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": true,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 245,
+   "slug": "outback",
+   "code": null,
+   "name": "Outback",
+   "partner_url": "https://www.livelo.com.br/vale-presente-outback-imediato/produto/PRD4178865?skuId=SKU5194564&algoliaIndex=catalog&algoliaQueryID=95b8e74263a9a98fbeca689801f811c3",
+   "currency": "R$",
+   "current_points": 1.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 246,
+   "slug": "pet-love-saude",
+   "code": "PVS",
+   "name": "Petlove Saúde",
+   "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/pet-love-saude/PVS",
+   "currency": "R$",
+   "current_points": 40.0,
+   "current_points_is_up_to": true,
+   "current_points_previous": 6.0,
+   "current_points_clube": 50.0,
+   "current_points_clube_previous": 6.0,
+   "is_promo": true,
+   "is_new_partner": true,
+   "variation_pct": 566.7,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 40.0,
+     "points_is_up_to": true,
+     "points_clube": 50.0,
+     "is_promo": true
+    }
+   ]
+  },
+  {
+   "id": 247,
+   "slug": "playstation",
+   "code": null,
+   "name": "Playstation",
+   "partner_url": "https://www.livelo.com.br/playstation-store/produto/PRD4086994?skuId=SKU5074715&algoliaIndex=catalog&algoliaQueryID=72102e6d45348adc141a7107904f9c5f",
+   "currency": "R$",
+   "current_points": 1.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  },
+  {
+   "id": 248,
+   "slug": "porto-servico",
+   "code": "PTO",
+   "name": "Porto Serviço",
+   "partner_url": "https://www.livelo.com.br/juntar-pontos/parceiros/porto-servico/PTO",
+   "currency": "R$",
+   "current_points": 11.0,
+   "current_points_is_up_to": true,
+   "current_points_previous": 5.0,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": true,
+   "is_new_partner": false,
+   "variation_pct": 120.0,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 11.0,
+     "points_is_up_to": true,
+     "points_clube": null,
+     "is_promo": true
+    }
+   ]
+  },
+  {
+   "id": 249,
+   "slug": "telhanorte",
+   "code": "TLN",
+   "name": "Telhanorte",
+   "partner_url": "https://www.livelo.com.br/juntar-pontos/parceiros/telhanorte/TLN",
+   "currency": "R$",
+   "current_points": 1.0,
+   "current_points_is_up_to": false,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
+   "is_new_partner": false,
+   "variation_pct": null,
+   "last_checked_at": "2026-08-12T10:51:25.427791",
+   "first_seen_at": "2026-08-12T10:51:25.427791",
+   "history": [
+    {
+     "captured_at": "2026-08-12T10:51:25.427791",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    }
+   ]
+  }
+ ]
+}
