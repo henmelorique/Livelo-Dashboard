@@ -1,5 +1,5 @@
 {
- "exported_at": "2026-08-31T17:17:58.861041+00:00",
+ "exported_at": "2026-09-01T14:23:43.093631+00:00",
  "partners": [
   {
    "id": 1,
@@ -16,7 +16,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -154,6 +154,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 2.0,
+     "points_is_up_to": true,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 2.0,
      "points_is_up_to": true,
      "points_clube": null,
@@ -176,7 +183,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -314,6 +321,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 1.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -328,15 +342,15 @@
    "name": "Magalu",
    "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/magalu/MZL",
    "currency": "R$",
-   "current_points": 3.0,
-   "current_points_is_up_to": false,
-   "current_points_previous": 2.0,
+   "current_points": 2.0,
+   "current_points_is_up_to": true,
+   "current_points_previous": null,
    "current_points_clube": null,
    "current_points_clube_previous": null,
-   "is_promo": true,
+   "is_promo": false,
    "is_new_partner": false,
-   "variation_pct": 50.0,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "variation_pct": null,
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -478,6 +492,13 @@
      "points_is_up_to": false,
      "points_clube": null,
      "is_promo": true
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
+     "points": 2.0,
+     "points_is_up_to": true,
+     "points_clube": null,
+     "is_promo": false
     }
    ]
   },
@@ -488,15 +509,15 @@
    "name": "Mercado Livre",
    "partner_url": "https://www.livelo.com.br/juntar-pontos/parceiros/mercado-livre/MCL",
    "currency": "R$",
-   "current_points": 1.0,
+   "current_points": 2.0,
    "current_points_is_up_to": false,
-   "current_points_previous": null,
+   "current_points_previous": 1.0,
    "current_points_clube": null,
    "current_points_clube_previous": null,
-   "is_promo": false,
+   "is_promo": true,
    "is_new_partner": false,
-   "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "variation_pct": 100.0,
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -638,6 +659,13 @@
      "points_is_up_to": false,
      "points_clube": null,
      "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": true
     }
    ]
   },
@@ -648,15 +676,15 @@
    "name": "Fast Shop",
    "partner_url": "https://www.livelo.com.br/juntar-pontos/parceiros/fast-shop/FST",
    "currency": "R$",
-   "current_points": 5.0,
+   "current_points": 2.0,
    "current_points_is_up_to": true,
    "current_points_previous": 2.0,
-   "current_points_clube": null,
-   "current_points_clube_previous": null,
+   "current_points_clube": 5.0,
+   "current_points_clube_previous": 2.0,
    "is_promo": true,
    "is_new_partner": false,
-   "variation_pct": 150.0,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "variation_pct": 0.0,
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -797,6 +825,13 @@
      "points": 5.0,
      "points_is_up_to": true,
      "points_clube": null,
+     "is_promo": true
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
+     "points": 2.0,
+     "points_is_up_to": true,
+     "points_clube": 5.0,
      "is_promo": true
     }
    ]
@@ -816,7 +851,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -954,6 +989,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 1.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -976,7 +1018,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -1118,6 +1160,13 @@
      "points_is_up_to": false,
      "points_clube": null,
      "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
     }
    ]
   },
@@ -1128,15 +1177,15 @@
    "name": "Carrefour Mercado",
    "partner_url": "https://www.livelo.com.br/juntar-pontos/parceiros/carrefour/CRM",
    "currency": "R$",
-   "current_points": 1.0,
+   "current_points": 3.0,
    "current_points_is_up_to": false,
-   "current_points_previous": null,
+   "current_points_previous": 1.0,
    "current_points_clube": null,
    "current_points_clube_previous": null,
-   "is_promo": false,
+   "is_promo": true,
    "is_new_partner": false,
-   "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "variation_pct": 200.0,
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -1278,6 +1327,13 @@
      "points_is_up_to": false,
      "points_clube": null,
      "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
+     "points": 3.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": true
     }
    ]
   },
@@ -1296,7 +1352,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -1434,6 +1490,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 4.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 4.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -1456,7 +1519,7 @@
    "is_promo": true,
    "is_new_partner": false,
    "variation_pct": 250.0,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -1594,6 +1657,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 7.0,
+     "points_is_up_to": true,
+     "points_clube": null,
+     "is_promo": true
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 7.0,
      "points_is_up_to": true,
      "points_clube": null,
@@ -1616,7 +1686,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -1754,6 +1824,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 6.0,
+     "points_is_up_to": true,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 6.0,
      "points_is_up_to": true,
      "points_clube": null,
@@ -1768,15 +1845,15 @@
    "name": "CEA",
    "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/cea/CEA",
    "currency": "R$",
-   "current_points": 4.0,
+   "current_points": 6.0,
    "current_points_is_up_to": true,
    "current_points_previous": 2.0,
    "current_points_clube": null,
    "current_points_clube_previous": null,
    "is_promo": true,
    "is_new_partner": false,
-   "variation_pct": 100.0,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "variation_pct": 200.0,
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -1915,6 +1992,13 @@
     {
      "captured_at": "2026-08-31T17:17:58.787001",
      "points": 4.0,
+     "points_is_up_to": true,
+     "points_clube": null,
+     "is_promo": true
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
+     "points": 6.0,
      "points_is_up_to": true,
      "points_clube": null,
      "is_promo": true
@@ -1936,7 +2020,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -2074,6 +2158,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 1.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -2096,7 +2187,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -2234,6 +2325,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 4.0,
+     "points_is_up_to": true,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 4.0,
      "points_is_up_to": true,
      "points_clube": null,
@@ -2248,15 +2346,15 @@
    "name": "Hoteis com",
    "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/hoteis/HTC",
    "currency": "R$",
-   "current_points": 3.0,
+   "current_points": 1.0,
    "current_points_is_up_to": false,
-   "current_points_previous": 1.0,
-   "current_points_clube": 4.0,
-   "current_points_clube_previous": 1.0,
-   "is_promo": true,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
    "is_new_partner": false,
-   "variation_pct": 200.0,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "variation_pct": null,
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -2398,6 +2496,13 @@
      "points_is_up_to": false,
      "points_clube": 4.0,
      "is_promo": true
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
     }
    ]
   },
@@ -2416,7 +2521,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -2554,6 +2659,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 3.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 3.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -2576,7 +2688,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -2714,6 +2826,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 2.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -2728,15 +2847,15 @@
    "name": "Riachuelo",
    "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/riachuelo/RCH",
    "currency": "R$",
-   "current_points": 5.0,
+   "current_points": 3.0,
    "current_points_is_up_to": false,
-   "current_points_previous": 3.0,
+   "current_points_previous": null,
    "current_points_clube": null,
    "current_points_clube_previous": null,
-   "is_promo": true,
+   "is_promo": false,
    "is_new_partner": false,
-   "variation_pct": 66.7,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "variation_pct": null,
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -2878,6 +2997,13 @@
      "points_is_up_to": false,
      "points_clube": null,
      "is_promo": true
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
+     "points": 3.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
     }
    ]
   },
@@ -2896,7 +3022,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -3034,6 +3160,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 1.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -3056,7 +3189,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -3194,6 +3327,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 2.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -3216,7 +3356,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -3354,6 +3494,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 1.0,
+     "points_is_up_to": true,
+     "points_clube": 3.0,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 1.0,
      "points_is_up_to": true,
      "points_clube": 3.0,
@@ -3376,7 +3523,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -3514,6 +3661,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 2.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -3528,15 +3682,15 @@
    "name": "Insider Store",
    "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/insider-store/INS",
    "currency": "R$",
-   "current_points": 8.0,
+   "current_points": 1.0,
    "current_points_is_up_to": false,
-   "current_points_previous": 1.0,
+   "current_points_previous": null,
    "current_points_clube": null,
    "current_points_clube_previous": null,
-   "is_promo": true,
+   "is_promo": false,
    "is_new_partner": false,
-   "variation_pct": 700.0,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "variation_pct": null,
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -3678,6 +3832,13 @@
      "points_is_up_to": false,
      "points_clube": null,
      "is_promo": true
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
     }
    ]
   },
@@ -3696,7 +3857,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -3834,6 +3995,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 1.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -3856,7 +4024,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -3994,6 +4162,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 1.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -4016,7 +4191,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -4154,6 +4329,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 2.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -4176,7 +4358,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -4314,6 +4496,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 2.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -4336,7 +4525,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -4474,6 +4663,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 2.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -4496,7 +4692,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -4634,6 +4830,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 1.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -4656,7 +4859,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -4794,6 +4997,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 4.0,
+     "points_is_up_to": true,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 4.0,
      "points_is_up_to": true,
      "points_clube": null,
@@ -4816,7 +5026,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -4958,6 +5168,13 @@
      "points_is_up_to": false,
      "points_clube": null,
      "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
+     "points": 3.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
     }
    ]
   },
@@ -4976,7 +5193,7 @@
    "is_promo": true,
    "is_new_partner": false,
    "variation_pct": 357.1,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -5118,6 +5335,13 @@
      "points_is_up_to": true,
      "points_clube": null,
      "is_promo": true
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
+     "points": 64.0,
+     "points_is_up_to": true,
+     "points_clube": null,
+     "is_promo": true
     }
    ]
   },
@@ -5136,7 +5360,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -5274,6 +5498,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 1.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -5296,7 +5527,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -5434,6 +5665,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 2.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -5456,7 +5694,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -5594,6 +5832,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 1.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -5616,7 +5861,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -5758,6 +6003,13 @@
      "points_is_up_to": true,
      "points_clube": null,
      "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
+     "points": 6.0,
+     "points_is_up_to": true,
+     "points_clube": null,
+     "is_promo": false
     }
    ]
   },
@@ -5768,15 +6020,15 @@
    "name": "Sephora",
    "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/sephora/SPR",
    "currency": "R$",
-   "current_points": 5.0,
+   "current_points": 1.0,
    "current_points_is_up_to": false,
-   "current_points_previous": 1.0,
-   "current_points_clube": 8.0,
-   "current_points_clube_previous": 1.0,
-   "is_promo": true,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
    "is_new_partner": false,
-   "variation_pct": 400.0,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "variation_pct": null,
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -5918,6 +6170,13 @@
      "points_is_up_to": false,
      "points_clube": 8.0,
      "is_promo": true
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
     }
    ]
   },
@@ -5928,15 +6187,15 @@
    "name": "Eudora",
    "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/eudora/EUD",
    "currency": "R$",
-   "current_points": 6.0,
+   "current_points": 2.0,
    "current_points_is_up_to": false,
    "current_points_previous": 2.0,
-   "current_points_clube": 8.0,
+   "current_points_clube": 6.0,
    "current_points_clube_previous": 2.0,
    "is_promo": true,
    "is_new_partner": false,
-   "variation_pct": 200.0,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "variation_pct": 0.0,
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -6078,6 +6337,13 @@
      "points_is_up_to": false,
      "points_clube": 8.0,
      "is_promo": true
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": 6.0,
+     "is_promo": true
     }
    ]
   },
@@ -6096,7 +6362,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -6234,6 +6500,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 2.0,
+     "points_is_up_to": true,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 2.0,
      "points_is_up_to": true,
      "points_clube": null,
@@ -6256,7 +6529,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -6398,6 +6671,13 @@
      "points_is_up_to": false,
      "points_clube": null,
      "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
     }
    ]
   },
@@ -6408,15 +6688,15 @@
    "name": "Midea",
    "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/midea/MDI",
    "currency": "R$",
-   "current_points": 1.0,
+   "current_points": 3.0,
    "current_points_is_up_to": false,
-   "current_points_previous": null,
+   "current_points_previous": 1.0,
    "current_points_clube": null,
    "current_points_clube_previous": null,
-   "is_promo": false,
+   "is_promo": true,
    "is_new_partner": false,
-   "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "variation_pct": 200.0,
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -6558,6 +6838,13 @@
      "points_is_up_to": false,
      "points_clube": null,
      "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
+     "points": 3.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": true
     }
    ]
   },
@@ -6576,7 +6863,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -6714,6 +7001,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 6.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 6.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -6728,15 +7022,15 @@
    "name": "Sam's Club - E-commerce",
    "partner_url": "https://www.livelo.com.br/juntar-pontos/parceiros/sams-club-e-commerce/ECO",
    "currency": "R$",
-   "current_points": 2.0,
-   "current_points_is_up_to": false,
-   "current_points_previous": 1.0,
+   "current_points": 1.0,
+   "current_points_is_up_to": true,
+   "current_points_previous": null,
    "current_points_clube": null,
    "current_points_clube_previous": null,
-   "is_promo": true,
+   "is_promo": false,
    "is_new_partner": false,
-   "variation_pct": 100.0,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "variation_pct": null,
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -6878,6 +7172,13 @@
      "points_is_up_to": false,
      "points_clube": null,
      "is_promo": true
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
+     "points": 1.0,
+     "points_is_up_to": true,
+     "points_clube": null,
+     "is_promo": false
     }
    ]
   },
@@ -6896,7 +7197,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -7034,6 +7335,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 1.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -7056,7 +7364,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -7194,6 +7502,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 1.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -7216,7 +7531,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -7354,6 +7669,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 2.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -7376,7 +7698,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -7514,6 +7836,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 1.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -7536,7 +7865,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -7674,6 +8003,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 2.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -7688,15 +8024,15 @@
    "name": "Rentcars",
    "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/rentcars/RTC",
    "currency": "U$",
-   "current_points": 10.0,
+   "current_points": 15.0,
    "current_points_is_up_to": false,
    "current_points_previous": 5.0,
    "current_points_clube": null,
    "current_points_clube_previous": null,
    "is_promo": true,
    "is_new_partner": false,
-   "variation_pct": 100.0,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "variation_pct": 200.0,
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -7835,6 +8171,13 @@
     {
      "captured_at": "2026-08-31T17:17:58.787001",
      "points": 10.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": true
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
+     "points": 15.0,
      "points_is_up_to": false,
      "points_clube": null,
      "is_promo": true
@@ -7856,7 +8199,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -7994,6 +8337,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 1.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -8016,7 +8366,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -8154,6 +8504,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 1.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -8176,7 +8533,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -8314,6 +8671,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 1.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -8336,7 +8700,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -8474,6 +8838,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 1.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -8496,7 +8867,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -8634,6 +9005,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 2.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -8656,7 +9034,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -8794,6 +9172,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": 3.0,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 2.0,
      "points_is_up_to": false,
      "points_clube": 3.0,
@@ -8816,7 +9201,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -8954,6 +9339,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 2.0,
+     "points_is_up_to": true,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 2.0,
      "points_is_up_to": true,
      "points_clube": null,
@@ -8968,15 +9360,15 @@
    "name": "Consórcio Magalu",
    "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/consorcio-magalu/MGC",
    "currency": "R$",
-   "current_points": 10.0,
-   "current_points_is_up_to": false,
-   "current_points_previous": null,
-   "current_points_clube": null,
-   "current_points_clube_previous": null,
-   "is_promo": false,
+   "current_points": 30.0,
+   "current_points_is_up_to": true,
+   "current_points_previous": 6.0,
+   "current_points_clube": 35.0,
+   "current_points_clube_previous": 6.0,
+   "is_promo": true,
    "is_new_partner": false,
-   "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "variation_pct": 400.0,
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -9118,6 +9510,13 @@
      "points_is_up_to": false,
      "points_clube": null,
      "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
+     "points": 30.0,
+     "points_is_up_to": true,
+     "points_clube": 35.0,
+     "is_promo": true
     }
    ]
   },
@@ -9136,7 +9535,7 @@
    "is_promo": true,
    "is_new_partner": false,
    "variation_pct": 33.3,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -9274,6 +9673,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 4.0,
+     "points_is_up_to": false,
+     "points_clube": 10.0,
+     "is_promo": true
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 4.0,
      "points_is_up_to": false,
      "points_clube": 10.0,
@@ -9296,7 +9702,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -9438,6 +9844,13 @@
      "points_is_up_to": false,
      "points_clube": null,
      "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
     }
    ]
   },
@@ -9448,15 +9861,15 @@
    "name": "Abelha Rainha",
    "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/abelha-rainha/BLH",
    "currency": "R$",
-   "current_points": 10.0,
+   "current_points": 3.0,
    "current_points_is_up_to": false,
-   "current_points_previous": 3.0,
+   "current_points_previous": null,
    "current_points_clube": null,
    "current_points_clube_previous": null,
-   "is_promo": true,
+   "is_promo": false,
    "is_new_partner": false,
-   "variation_pct": 233.3,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "variation_pct": null,
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -9598,6 +10011,13 @@
      "points_is_up_to": false,
      "points_clube": null,
      "is_promo": true
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
+     "points": 3.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
     }
    ]
   },
@@ -9616,7 +10036,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -9754,6 +10174,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 1.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -9776,7 +10203,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -9914,6 +10341,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 2.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -9936,7 +10370,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -10074,6 +10508,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 1.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -10096,7 +10537,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -10234,6 +10675,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 1.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -10256,7 +10704,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -10394,6 +10842,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 6.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 6.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -10416,7 +10871,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -10554,6 +11009,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 1.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -10576,7 +11038,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -10714,6 +11176,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 1.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -10728,15 +11197,15 @@
    "name": "Assist Card Seguro-Viagem",
    "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/assist-card-seguros/ASC",
    "currency": "R$",
-   "current_points": 13.0,
+   "current_points": 10.0,
    "current_points_is_up_to": false,
-   "current_points_previous": 10.0,
+   "current_points_previous": null,
    "current_points_clube": null,
    "current_points_clube_previous": null,
-   "is_promo": true,
+   "is_promo": false,
    "is_new_partner": false,
-   "variation_pct": 30.0,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "variation_pct": null,
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -10878,6 +11347,13 @@
      "points_is_up_to": false,
      "points_clube": null,
      "is_promo": true
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
+     "points": 10.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
     }
    ]
   },
@@ -10896,7 +11372,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -11034,6 +11510,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 1.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -11056,7 +11539,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -11194,6 +11677,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 1.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -11208,15 +11698,15 @@
    "name": "Morana",
    "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/morana/MRN",
    "currency": "R$",
-   "current_points": 3.0,
+   "current_points": 8.0,
    "current_points_is_up_to": false,
-   "current_points_previous": null,
-   "current_points_clube": null,
-   "current_points_clube_previous": null,
-   "is_promo": false,
+   "current_points_previous": 3.0,
+   "current_points_clube": 12.0,
+   "current_points_clube_previous": 3.0,
+   "is_promo": true,
    "is_new_partner": false,
-   "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "variation_pct": 166.7,
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -11358,6 +11848,13 @@
      "points_is_up_to": false,
      "points_clube": null,
      "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
+     "points": 8.0,
+     "points_is_up_to": false,
+     "points_clube": 12.0,
+     "is_promo": true
     }
    ]
   },
@@ -11370,13 +11867,13 @@
    "currency": "R$",
    "current_points": 3.0,
    "current_points_is_up_to": false,
-   "current_points_previous": null,
-   "current_points_clube": null,
-   "current_points_clube_previous": null,
-   "is_promo": false,
+   "current_points_previous": 3.0,
+   "current_points_clube": 6.0,
+   "current_points_clube_previous": 3.0,
+   "is_promo": true,
    "is_new_partner": false,
-   "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "variation_pct": 0.0,
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -11518,6 +12015,13 @@
      "points_is_up_to": false,
      "points_clube": null,
      "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
+     "points": 3.0,
+     "points_is_up_to": false,
+     "points_clube": 6.0,
+     "is_promo": true
     }
    ]
   },
@@ -11528,15 +12032,15 @@
    "name": "Loungerie",
    "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/loungerie/LGR",
    "currency": "R$",
-   "current_points": 3.0,
+   "current_points": 1.0,
    "current_points_is_up_to": false,
-   "current_points_previous": 1.0,
-   "current_points_clube": 6.0,
-   "current_points_clube_previous": 1.0,
-   "is_promo": true,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
    "is_new_partner": false,
-   "variation_pct": 200.0,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "variation_pct": null,
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -11678,6 +12182,13 @@
      "points_is_up_to": false,
      "points_clube": 6.0,
      "is_promo": true
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
     }
    ]
   },
@@ -11688,15 +12199,15 @@
    "name": "Max Titanium",
    "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/max-titanium/SUP",
    "currency": "R$",
-   "current_points": 7.0,
+   "current_points": 1.0,
    "current_points_is_up_to": false,
-   "current_points_previous": 1.0,
-   "current_points_clube": 9.0,
-   "current_points_clube_previous": 1.0,
-   "is_promo": true,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
    "is_new_partner": false,
-   "variation_pct": 600.0,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "variation_pct": null,
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -11838,6 +12349,13 @@
      "points_is_up_to": false,
      "points_clube": 9.0,
      "is_promo": true
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
     }
    ]
   },
@@ -11856,7 +12374,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -11994,6 +12512,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 2.0,
+     "points_is_up_to": true,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 2.0,
      "points_is_up_to": true,
      "points_clube": null,
@@ -12016,7 +12541,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -12154,6 +12679,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 4.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 4.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -12168,15 +12700,15 @@
    "name": "New Balance",
    "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/new-balance/NWB",
    "currency": "R$",
-   "current_points": 5.0,
+   "current_points": 2.0,
    "current_points_is_up_to": false,
-   "current_points_previous": 2.0,
-   "current_points_clube": 6.0,
-   "current_points_clube_previous": 2.0,
-   "is_promo": true,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
    "is_new_partner": false,
-   "variation_pct": 150.0,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "variation_pct": null,
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -12318,6 +12850,13 @@
      "points_is_up_to": false,
      "points_clube": 6.0,
      "is_promo": true
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
     }
    ]
   },
@@ -12336,7 +12875,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -12474,6 +13013,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 1.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -12488,15 +13034,15 @@
    "name": "Bibi",
    "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/bibi-calcados/BBB",
    "currency": "R$",
-   "current_points": 5.0,
+   "current_points": 1.0,
    "current_points_is_up_to": false,
-   "current_points_previous": 1.0,
+   "current_points_previous": null,
    "current_points_clube": null,
    "current_points_clube_previous": null,
-   "is_promo": true,
+   "is_promo": false,
    "is_new_partner": false,
-   "variation_pct": 400.0,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "variation_pct": null,
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -12638,6 +13184,13 @@
      "points_is_up_to": false,
      "points_clube": null,
      "is_promo": true
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
     }
    ]
   },
@@ -12656,7 +13209,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -12794,6 +13347,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 1.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -12808,15 +13368,15 @@
    "name": "Mondaine",
    "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/mondaine/MDN",
    "currency": "R$",
-   "current_points": 2.0,
-   "current_points_is_up_to": false,
-   "current_points_previous": null,
+   "current_points": 5.0,
+   "current_points_is_up_to": true,
+   "current_points_previous": 2.0,
    "current_points_clube": null,
    "current_points_clube_previous": null,
-   "is_promo": false,
+   "is_promo": true,
    "is_new_partner": false,
-   "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "variation_pct": 150.0,
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -12958,6 +13518,13 @@
      "points_is_up_to": false,
      "points_clube": null,
      "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
+     "points": 5.0,
+     "points_is_up_to": true,
+     "points_clube": null,
+     "is_promo": true
     }
    ]
   },
@@ -12976,7 +13543,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -13114,6 +13681,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 2.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -13136,7 +13710,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -13274,6 +13848,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 1.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -13296,7 +13877,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -13434,6 +14015,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 2.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -13448,15 +14036,15 @@
    "name": "Fila",
    "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/fila/FLA",
    "currency": "R$",
-   "current_points": 5.0,
+   "current_points": 2.0,
    "current_points_is_up_to": false,
-   "current_points_previous": 2.0,
-   "current_points_clube": 6.0,
-   "current_points_clube_previous": 2.0,
-   "is_promo": true,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
    "is_new_partner": false,
-   "variation_pct": 150.0,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "variation_pct": null,
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -13598,6 +14186,13 @@
      "points_is_up_to": false,
      "points_clube": 6.0,
      "is_promo": true
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
     }
    ]
   },
@@ -13616,7 +14211,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -13754,6 +14349,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 2.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -13776,7 +14378,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -13914,6 +14516,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 2.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -13936,7 +14545,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -14074,6 +14683,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 2.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -14096,7 +14712,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -14234,6 +14850,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 1.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -14256,7 +14879,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -14394,6 +15017,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 3.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 3.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -14416,7 +15046,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -14554,6 +15184,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 1.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -14568,15 +15205,15 @@
    "name": "Seculus",
    "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/seculus/SCL",
    "currency": "R$",
-   "current_points": 2.0,
-   "current_points_is_up_to": false,
-   "current_points_previous": null,
-   "current_points_clube": null,
-   "current_points_clube_previous": null,
-   "is_promo": false,
+   "current_points": 8.0,
+   "current_points_is_up_to": true,
+   "current_points_previous": 2.0,
+   "current_points_clube": 10.0,
+   "current_points_clube_previous": 2.0,
+   "is_promo": true,
    "is_new_partner": false,
-   "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "variation_pct": 300.0,
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -14718,6 +15355,13 @@
      "points_is_up_to": false,
      "points_clube": null,
      "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
+     "points": 8.0,
+     "points_is_up_to": true,
+     "points_clube": 10.0,
+     "is_promo": true
     }
    ]
   },
@@ -14736,7 +15380,7 @@
    "is_promo": true,
    "is_new_partner": false,
    "variation_pct": 20.0,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -14874,6 +15518,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 12.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": true
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 12.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -14896,7 +15547,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -15034,6 +15685,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 2.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -15056,7 +15714,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -15194,6 +15852,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 3.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 3.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -15216,7 +15881,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -15354,6 +16019,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 1.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -15376,7 +16048,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -15514,6 +16186,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 2.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -15536,7 +16215,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -15674,6 +16353,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 1.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -15696,7 +16382,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -15834,6 +16520,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 2.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -15856,7 +16549,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -15994,6 +16687,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 2.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -16016,7 +16716,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -16154,6 +16854,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 2.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -16176,7 +16883,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -16314,6 +17021,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 2.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -16336,7 +17050,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -16474,6 +17188,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 6.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 6.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -16496,7 +17217,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -16638,6 +17359,13 @@
      "points_is_up_to": false,
      "points_clube": null,
      "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
+     "points": 3.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
     }
    ]
   },
@@ -16648,15 +17376,15 @@
    "name": "Foco",
    "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/foco/FOC",
    "currency": "R$",
-   "current_points": 4.0,
+   "current_points": 2.0,
    "current_points_is_up_to": false,
-   "current_points_previous": 2.0,
-   "current_points_clube": 10.0,
-   "current_points_clube_previous": 2.0,
-   "is_promo": true,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
    "is_new_partner": false,
-   "variation_pct": 100.0,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "variation_pct": null,
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -16798,6 +17526,13 @@
      "points_is_up_to": false,
      "points_clube": 10.0,
      "is_promo": true
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
     }
    ]
   },
@@ -16816,7 +17551,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -16954,6 +17689,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 1.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -16976,7 +17718,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -17114,6 +17856,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 10.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 10.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -17136,7 +17885,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -17274,6 +18023,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 2.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -17288,15 +18044,15 @@
    "name": "Ciclic Seguro Viagem",
    "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/ciclic/CIC",
    "currency": "R$",
-   "current_points": 15.0,
+   "current_points": 14.0,
    "current_points_is_up_to": false,
    "current_points_previous": 8.0,
-   "current_points_clube": null,
-   "current_points_clube_previous": null,
+   "current_points_clube": 15.0,
+   "current_points_clube_previous": 8.0,
    "is_promo": true,
    "is_new_partner": false,
-   "variation_pct": 87.5,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "variation_pct": 75.0,
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -17437,6 +18193,13 @@
      "points": 15.0,
      "points_is_up_to": false,
      "points_clube": null,
+     "is_promo": true
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
+     "points": 14.0,
+     "points_is_up_to": false,
+     "points_clube": 15.0,
      "is_promo": true
     }
    ]
@@ -17456,7 +18219,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -17594,6 +18357,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 10.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 10.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -17616,7 +18386,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -17754,6 +18524,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 4.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 4.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -17776,7 +18553,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -17914,6 +18691,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 2.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -18026,7 +18810,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -18164,6 +18948,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 3.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 3.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -18186,7 +18977,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -18324,6 +19115,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 3.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 3.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -18346,7 +19144,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -18484,6 +19282,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 2.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -18506,7 +19311,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -18644,6 +19449,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 3.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 3.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -18666,7 +19478,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -18804,6 +19616,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 2.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -18826,7 +19645,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -18964,6 +19783,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 1.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -18986,7 +19812,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -19124,6 +19950,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 2.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -19146,7 +19979,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -19284,6 +20117,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 2.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -19298,15 +20138,15 @@
    "name": "Probiótica",
    "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/probiotica/PBT",
    "currency": "R$",
-   "current_points": 7.0,
+   "current_points": 1.0,
    "current_points_is_up_to": false,
-   "current_points_previous": 1.0,
-   "current_points_clube": 9.0,
-   "current_points_clube_previous": 1.0,
-   "is_promo": true,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
    "is_new_partner": false,
-   "variation_pct": 600.0,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "variation_pct": null,
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -19448,6 +20288,13 @@
      "points_is_up_to": false,
      "points_clube": 9.0,
      "is_promo": true
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
     }
    ]
   },
@@ -19466,7 +20313,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -19604,6 +20451,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 1.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -19626,7 +20480,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -19764,6 +20618,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 32.0,
+     "points_is_up_to": true,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 32.0,
      "points_is_up_to": true,
      "points_clube": null,
@@ -19786,7 +20647,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -19924,6 +20785,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 6.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 6.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -19946,7 +20814,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -20084,6 +20952,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 2.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -20106,7 +20981,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -20250,7 +21125,14 @@
      "is_promo": false
     },
     {
-     "captured_at": "2026-08-31T17:17:58.787001",
+     "captured_at": "2026-09-01T14:23:43.010287",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 1.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -20273,7 +21155,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -20411,6 +21293,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 2.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -20433,7 +21322,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -20571,6 +21460,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 10.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 10.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -20593,7 +21489,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -20731,6 +21627,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 1.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -20753,7 +21656,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -20891,6 +21794,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 1.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -20913,7 +21823,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -21051,6 +21961,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 2.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -21073,7 +21990,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -21211,6 +22128,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 1.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -21233,7 +22157,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -21371,6 +22295,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 2.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -21393,7 +22324,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -21531,6 +22462,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 2.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -21553,7 +22491,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -21691,6 +22629,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 2.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -21713,7 +22658,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -21851,6 +22796,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 2.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -21873,7 +22825,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -22011,6 +22963,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 12.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 12.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -22033,7 +22992,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -22177,7 +23136,14 @@
      "is_promo": true
     },
     {
-     "captured_at": "2026-08-31T17:17:58.787001",
+     "captured_at": "2026-09-01T14:23:43.010287",
+     "points": 35.0,
+     "points_is_up_to": true,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 3.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -22200,7 +23166,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -22338,6 +23304,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 5.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 5.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -22360,7 +23333,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -22498,6 +23471,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 2.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -22520,7 +23500,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -22658,6 +23638,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 2.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -22680,7 +23667,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -22818,6 +23805,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 1.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -22840,7 +23834,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -22978,6 +23972,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 2.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -23000,7 +24001,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -23138,6 +24139,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 5.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 5.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -23160,7 +24168,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -23298,6 +24306,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 3.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 3.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -23320,7 +24335,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -23458,6 +24473,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 3.0,
+     "points_is_up_to": false,
+     "points_clube": 5.0,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 3.0,
      "points_is_up_to": false,
      "points_clube": 5.0,
@@ -23480,7 +24502,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -23618,6 +24640,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": 4.0,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 2.0,
      "points_is_up_to": false,
      "points_clube": 4.0,
@@ -23640,7 +24669,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -23778,6 +24807,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 1.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -23800,7 +24836,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -23938,6 +24974,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 2.0,
+     "points_is_up_to": true,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 2.0,
      "points_is_up_to": true,
      "points_clube": null,
@@ -23960,7 +25003,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -24098,6 +25141,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 2.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -24120,7 +25170,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -24258,6 +25308,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 1.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -24280,7 +25337,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -24418,6 +25475,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 2.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -24431,8 +25495,8 @@
    "code": "VNT",
    "name": "avis",
    "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/avis/VNT",
-   "currency": "R$",
-   "current_points": 1.0,
+   "currency": "U$",
+   "current_points": 5.0,
    "current_points_is_up_to": false,
    "current_points_previous": null,
    "current_points_clube": null,
@@ -24440,7 +25504,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -24579,6 +25643,13 @@
     {
      "captured_at": "2026-08-31T17:17:58.787001",
      "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
+     "points": 5.0,
      "points_is_up_to": false,
      "points_clube": null,
      "is_promo": false
@@ -24600,7 +25671,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -24738,6 +25809,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 2.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -24760,7 +25838,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -24898,6 +25976,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 5.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 5.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -24920,7 +26005,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -25058,6 +26143,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 1.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -25080,7 +26172,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -25218,6 +26310,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 2.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -25240,7 +26339,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -25378,6 +26477,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 1.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -25400,7 +26506,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -25538,6 +26644,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 20.0,
+     "points_is_up_to": true,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 20.0,
      "points_is_up_to": true,
      "points_clube": null,
@@ -25560,7 +26673,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -25698,6 +26811,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 7.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 7.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -25720,7 +26840,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -25858,6 +26978,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 1.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -25880,7 +27007,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -26018,6 +27145,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 11.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 11.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -26040,7 +27174,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -26178,6 +27312,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 2.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -26192,15 +27333,15 @@
    "name": "Piatan Natural",
    "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/piatan-natural/PAT",
    "currency": "R$",
-   "current_points": 10.0,
+   "current_points": 3.0,
    "current_points_is_up_to": false,
-   "current_points_previous": 3.0,
+   "current_points_previous": null,
    "current_points_clube": null,
    "current_points_clube_previous": null,
-   "is_promo": true,
+   "is_promo": false,
    "is_new_partner": false,
-   "variation_pct": 233.3,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "variation_pct": null,
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -26342,6 +27483,13 @@
      "points_is_up_to": false,
      "points_clube": null,
      "is_promo": true
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
+     "points": 3.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
     }
    ]
   },
@@ -26360,7 +27508,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -26498,6 +27646,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 2.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -26512,15 +27667,15 @@
    "name": "LEGO",
    "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/lego/LEG",
    "currency": "R$",
-   "current_points": 5.0,
+   "current_points": 1.0,
    "current_points_is_up_to": false,
-   "current_points_previous": 1.0,
+   "current_points_previous": null,
    "current_points_clube": null,
    "current_points_clube_previous": null,
-   "is_promo": true,
+   "is_promo": false,
    "is_new_partner": false,
-   "variation_pct": 400.0,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "variation_pct": null,
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -26662,6 +27817,13 @@
      "points_is_up_to": false,
      "points_clube": null,
      "is_promo": true
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
     }
    ]
   },
@@ -26680,7 +27842,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -26818,6 +27980,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 4.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 4.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -26840,7 +28009,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -26978,6 +28147,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 1.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -27000,7 +28176,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -27138,6 +28314,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 1.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -27160,7 +28343,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -27298,6 +28481,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 2.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -27320,7 +28510,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -27458,6 +28648,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 6.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 6.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -27480,7 +28677,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -27618,6 +28815,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 2.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -27632,15 +28836,15 @@
    "name": "Universal Assistance – Seguro Viagem",
    "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/universal-assistance/AST",
    "currency": "R$",
-   "current_points": 10.0,
+   "current_points": 6.0,
    "current_points_is_up_to": false,
-   "current_points_previous": 6.0,
+   "current_points_previous": null,
    "current_points_clube": null,
    "current_points_clube_previous": null,
-   "is_promo": true,
+   "is_promo": false,
    "is_new_partner": false,
-   "variation_pct": 66.7,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "variation_pct": null,
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -27782,6 +28986,13 @@
      "points_is_up_to": false,
      "points_clube": null,
      "is_promo": true
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
+     "points": 6.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
     }
    ]
   },
@@ -27800,7 +29011,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -27938,6 +29149,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 2.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -27960,7 +29178,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -28098,6 +29316,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 1.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -28120,7 +29345,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -28258,6 +29483,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 1.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -28272,7 +29504,7 @@
    "name": "ACER",
    "partner_url": "https://www.livelo.com.br/juntar-pontos/parceiros/acer/ACE",
    "currency": "R$",
-   "current_points": 2.0,
+   "current_points": 4.0,
    "current_points_is_up_to": false,
    "current_points_previous": null,
    "current_points_clube": null,
@@ -28280,7 +29512,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -28419,6 +29651,13 @@
     {
      "captured_at": "2026-08-31T17:17:58.787001",
      "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
+     "points": 4.0,
      "points_is_up_to": false,
      "points_clube": null,
      "is_promo": false
@@ -28440,7 +29679,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -28578,6 +29817,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 3.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 3.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -28600,7 +29846,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -28738,6 +29984,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 1.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -28760,7 +30013,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -28898,6 +30151,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 3.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 3.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -28920,7 +30180,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -29058,6 +30318,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 1.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -29080,7 +30347,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -29218,6 +30485,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 3.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 3.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -29232,15 +30506,15 @@
    "name": "Ciclic Seguro Celular",
    "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/ciclic-celular/CEL",
    "currency": "R$",
-   "current_points": 6.0,
+   "current_points": 5.0,
    "current_points_is_up_to": false,
    "current_points_previous": 4.0,
    "current_points_clube": null,
    "current_points_clube_previous": null,
    "is_promo": true,
    "is_new_partner": false,
-   "variation_pct": 50.0,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "variation_pct": 25.0,
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -29379,6 +30653,13 @@
     {
      "captured_at": "2026-08-31T17:17:58.787001",
      "points": 6.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": true
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
+     "points": 5.0,
      "points_is_up_to": false,
      "points_clube": null,
      "is_promo": true
@@ -29400,7 +30681,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -29538,6 +30819,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 3.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 3.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -29560,7 +30848,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -29698,6 +30986,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 2.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -29720,7 +31015,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -29858,6 +31153,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 1.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -29880,7 +31182,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -30018,6 +31320,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 2.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -30040,7 +31349,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -30178,6 +31487,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 2.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -30200,7 +31516,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -30338,6 +31654,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 3.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 3.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -30360,7 +31683,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -30498,6 +31821,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 1.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -30520,7 +31850,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -30658,6 +31988,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 3.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 3.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -30680,7 +32017,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -30818,6 +32155,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 1.0,
+     "points_is_up_to": true,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 1.0,
      "points_is_up_to": true,
      "points_clube": null,
@@ -30832,15 +32176,15 @@
    "name": "Reservecar",
    "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/reserve-car/RSC",
    "currency": "R$",
-   "current_points": 3.0,
+   "current_points": 2.0,
    "current_points_is_up_to": false,
-   "current_points_previous": 1.0,
+   "current_points_previous": null,
    "current_points_clube": null,
    "current_points_clube_previous": null,
-   "is_promo": true,
+   "is_promo": false,
    "is_new_partner": false,
-   "variation_pct": 200.0,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "variation_pct": null,
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -30982,6 +32326,13 @@
      "points_is_up_to": false,
      "points_clube": null,
      "is_promo": true
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
     }
    ]
   },
@@ -31000,7 +32351,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -31138,6 +32489,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 1.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -31160,7 +32518,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -31298,6 +32656,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 3.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 3.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -31320,7 +32685,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -31458,6 +32823,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 1.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -31480,7 +32852,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -31618,6 +32990,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 1.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -31640,7 +33019,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -31778,6 +33157,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 14.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 14.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -31800,7 +33186,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -31938,6 +33324,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 2.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -31960,7 +33353,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -32098,6 +33491,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 2.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -32120,7 +33520,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -32258,6 +33658,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 1.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -32280,7 +33687,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -32418,6 +33825,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 2.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -32530,7 +33944,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -32668,6 +34082,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 1.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -32690,7 +34111,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -32828,6 +34249,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 1.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -32850,7 +34278,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -32988,6 +34416,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 2.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -33010,7 +34445,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -33148,6 +34583,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 40.0,
+     "points_is_up_to": true,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 40.0,
      "points_is_up_to": true,
      "points_clube": null,
@@ -33170,7 +34612,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -33308,6 +34750,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": 2.0,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 1.0,
      "points_is_up_to": false,
      "points_clube": 2.0,
@@ -33330,7 +34779,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -33468,6 +34917,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 1.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -33482,15 +34938,15 @@
    "name": "Spicy",
    "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/spicy/MCB",
    "currency": "R$",
-   "current_points": 5.0,
+   "current_points": 1.0,
    "current_points_is_up_to": false,
-   "current_points_previous": 1.0,
+   "current_points_previous": null,
    "current_points_clube": null,
    "current_points_clube_previous": null,
-   "is_promo": true,
+   "is_promo": false,
    "is_new_partner": false,
-   "variation_pct": 400.0,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "variation_pct": null,
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -33632,6 +35088,13 @@
      "points_is_up_to": false,
      "points_clube": null,
      "is_promo": true
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
     }
    ]
   },
@@ -33650,7 +35113,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -33788,6 +35251,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 40.0,
+     "points_is_up_to": true,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 40.0,
      "points_is_up_to": true,
      "points_clube": null,
@@ -33802,15 +35272,15 @@
    "name": "Klabin ForYou",
    "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/klabin/KLB",
    "currency": "R$",
-   "current_points": 10.0,
+   "current_points": 1.0,
    "current_points_is_up_to": false,
-   "current_points_previous": 1.0,
-   "current_points_clube": 13.0,
-   "current_points_clube_previous": 1.0,
-   "is_promo": true,
+   "current_points_previous": null,
+   "current_points_clube": null,
+   "current_points_clube_previous": null,
+   "is_promo": false,
    "is_new_partner": false,
-   "variation_pct": 900.0,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "variation_pct": null,
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -33952,6 +35422,13 @@
      "points_is_up_to": false,
      "points_clube": 13.0,
      "is_promo": true
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
     }
    ]
   },
@@ -33970,7 +35447,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -34108,6 +35585,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 3.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 3.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -34130,7 +35614,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -34268,6 +35752,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 1.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -34290,7 +35781,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -34428,6 +35919,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 1.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -34450,7 +35948,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -34588,6 +36086,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 5.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 5.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -34610,7 +36115,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -34748,6 +36253,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 2.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -34770,7 +36282,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -34908,6 +36420,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 1.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -34930,7 +36449,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -35068,6 +36587,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 1.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -35090,7 +36616,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -35228,6 +36754,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 3.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 3.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -35250,7 +36783,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -35388,6 +36921,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 1.0,
+     "points_is_up_to": true,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 1.0,
      "points_is_up_to": true,
      "points_clube": null,
@@ -35410,7 +36950,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -35548,6 +37088,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 4.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 4.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -35570,7 +37117,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -35708,6 +37255,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 1.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -35730,7 +37284,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -35868,6 +37422,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 1.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -35890,7 +37451,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -36028,6 +37589,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 1.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -36050,7 +37618,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -36188,6 +37756,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 3.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 3.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -36210,7 +37785,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -36348,6 +37923,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 40.0,
+     "points_is_up_to": true,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 40.0,
      "points_is_up_to": true,
      "points_clube": null,
@@ -36370,7 +37952,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -36508,6 +38090,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 1.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -36530,7 +38119,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -36668,6 +38257,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 2.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -36690,7 +38286,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -36828,6 +38424,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 40.0,
+     "points_is_up_to": true,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 40.0,
      "points_is_up_to": true,
      "points_clube": null,
@@ -36850,7 +38453,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -36988,6 +38591,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 1.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -37010,7 +38620,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -37148,6 +38758,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 6.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 6.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -37170,7 +38787,7 @@
    "is_promo": true,
    "is_new_partner": false,
    "variation_pct": 2900.0,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -37308,6 +38925,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 30.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": true
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 30.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -37330,7 +38954,7 @@
    "is_promo": true,
    "is_new_partner": false,
    "variation_pct": 66.7,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -37468,6 +39092,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 5.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": true
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 5.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -37490,7 +39121,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -37628,6 +39259,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 1.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -37650,7 +39288,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -37792,6 +39430,13 @@
      "points_is_up_to": false,
      "points_clube": null,
      "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
     }
    ]
   },
@@ -37802,15 +39447,15 @@
    "name": "Clube Bancorbrás",
    "partner_url": "https://www.livelo.com.br/juntar-pontos/parceiros/clube-bancorbras/BCR ",
    "currency": "R$",
-   "current_points": 25.0,
+   "current_points": 20.0,
    "current_points_is_up_to": false,
    "current_points_previous": 8.0,
-   "current_points_clube": 28.0,
+   "current_points_clube": 25.0,
    "current_points_clube_previous": 8.0,
    "is_promo": true,
    "is_new_partner": false,
-   "variation_pct": 212.5,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "variation_pct": 150.0,
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -37952,6 +39597,13 @@
      "points_is_up_to": false,
      "points_clube": 28.0,
      "is_promo": true
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
+     "points": 20.0,
+     "points_is_up_to": false,
+     "points_clube": 25.0,
+     "is_promo": true
     }
    ]
   },
@@ -37962,7 +39614,7 @@
    "name": "Electrolux",
    "partner_url": "https://www.livelo.com.br/juntar-pontos/parceiros/electrolux/ELX",
    "currency": "R$",
-   "current_points": 2.0,
+   "current_points": 1.0,
    "current_points_is_up_to": false,
    "current_points_previous": null,
    "current_points_clube": null,
@@ -37970,7 +39622,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -38109,6 +39761,13 @@
     {
      "captured_at": "2026-08-31T17:17:58.787001",
      "points": 2.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
+     "points": 1.0,
      "points_is_up_to": false,
      "points_clube": null,
      "is_promo": false
@@ -38130,7 +39789,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -38268,6 +39927,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 1.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -38290,7 +39956,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -38428,6 +40094,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 40.0,
+     "points_is_up_to": true,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 40.0,
      "points_is_up_to": true,
      "points_clube": null,
@@ -38450,7 +40123,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -38588,6 +40261,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 1.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -38610,7 +40290,7 @@
    "is_promo": false,
    "is_new_partner": true,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -38748,6 +40428,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 3.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 3.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -38770,7 +40457,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -38908,6 +40595,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 1.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -38930,7 +40624,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -39072,6 +40766,13 @@
      "points_is_up_to": false,
      "points_clube": null,
      "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
     }
    ]
   },
@@ -39082,15 +40783,15 @@
    "name": "Petlove Saúde",
    "partner_url": "https://livelo.com.br/juntar-pontos/parceiros/pet-love-saude/PVS",
    "currency": "R$",
-   "current_points": 6.0,
-   "current_points_is_up_to": false,
-   "current_points_previous": null,
-   "current_points_clube": null,
-   "current_points_clube_previous": null,
-   "is_promo": false,
+   "current_points": 20.0,
+   "current_points_is_up_to": true,
+   "current_points_previous": 6.0,
+   "current_points_clube": 22.0,
+   "current_points_clube_previous": 6.0,
+   "is_promo": true,
    "is_new_partner": false,
-   "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "variation_pct": 233.3,
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -39232,6 +40933,13 @@
      "points_is_up_to": false,
      "points_clube": null,
      "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
+     "points": 20.0,
+     "points_is_up_to": true,
+     "points_clube": 22.0,
+     "is_promo": true
     }
    ]
   },
@@ -39250,7 +40958,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -39388,6 +41096,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 1.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -39402,15 +41117,15 @@
    "name": "Porto Serviço",
    "partner_url": "https://www.livelo.com.br/juntar-pontos/parceiros/porto-servico/PTO",
    "currency": "R$",
-   "current_points": 10.0,
+   "current_points": 5.0,
    "current_points_is_up_to": false,
-   "current_points_previous": 5.0,
+   "current_points_previous": null,
    "current_points_clube": null,
    "current_points_clube_previous": null,
-   "is_promo": true,
+   "is_promo": false,
    "is_new_partner": false,
-   "variation_pct": 100.0,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "variation_pct": null,
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -39552,6 +41267,13 @@
      "points_is_up_to": false,
      "points_clube": null,
      "is_promo": true
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
+     "points": 5.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
     }
    ]
   },
@@ -39570,7 +41292,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-12T10:51:25.427791",
    "history": [
     {
@@ -39708,6 +41430,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 1.0,
      "points_is_up_to": false,
      "points_clube": null,
@@ -39730,7 +41459,7 @@
    "is_promo": false,
    "is_new_partner": false,
    "variation_pct": null,
-   "last_checked_at": "2026-08-31T17:17:58.787001",
+   "last_checked_at": "2026-09-01T14:23:43.010287",
    "first_seen_at": "2026-08-19T10:18:27.376457",
    "history": [
     {
@@ -39819,6 +41548,13 @@
     },
     {
      "captured_at": "2026-08-31T17:17:58.787001",
+     "points": 1.0,
+     "points_is_up_to": false,
+     "points_clube": null,
+     "is_promo": false
+    },
+    {
+     "captured_at": "2026-09-01T14:23:43.010287",
      "points": 1.0,
      "points_is_up_to": false,
      "points_clube": null,
